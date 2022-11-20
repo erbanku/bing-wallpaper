@@ -7,7 +7,7 @@ package com.wdbyte.bing.html;
 public class HtmlConstant {
 
     /**
-     * 侧边栏目录的归档菜单
+     * 侧边栏目录的Archive菜单
      */
     public static class Sidebar{
         public static final String VAR_SIDABAR = "${sidabar}";
@@ -53,7 +53,7 @@ public class HtmlConstant {
         }
     }
     /**
-     * 底部归档
+     * 底部Archive
      */
     public static class MonthHistory{
         public static final String VAR_MONTH_HISTORY = "${month_history}";
