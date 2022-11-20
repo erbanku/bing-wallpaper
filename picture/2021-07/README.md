@@ -1,4 +1,5 @@
-## Bing Wallpaper (2021-07)
+# Bing Wallpapers (2021-07)
+
 ![](https://cn.bing.com/th?id=OHR.OtterCliff_EN-US6679872579_UHD.jpg&w=1000)Today: [Otter Cliffs, Acadia National Park, Maine (© dbimages/Alamy)](https://cn.bing.com/th?id=OHR.OtterCliff_EN-US6679872579_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |

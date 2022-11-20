@@ -1,4 +1,5 @@
-## Bing Wallpaper (2021-06)
+# Bing Wallpapers (2021-06)
+
 ![](https://cn.bing.com/th?id=OHR.RocksSeychelles_EN-US7406548278_UHD.jpg&w=1000)Today: [Rocks on Anse Source d'Argent beach, La Digue Island, Seychelles (© Roland Gerth/eStock Photo)](https://cn.bing.com/th?id=OHR.RocksSeychelles_EN-US7406548278_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |

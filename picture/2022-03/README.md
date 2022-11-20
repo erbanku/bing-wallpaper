@@ -1,4 +1,5 @@
-## Bing Wallpaper (2022-03)
+# Bing Wallpapers (2022-03)
+
 ![](https://cn.bing.com/th?id=OHR.BeltedGalloway_EN-US0423647307_UHD.jpg&w=1000)Today: [Belted Galloway cows in Scotland (© JohnFScott/Getty Images)](https://cn.bing.com/th?id=OHR.BeltedGalloway_EN-US0423647307_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |

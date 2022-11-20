@@ -1,4 +1,5 @@
-## Bing Wallpaper (2021-10)
+# Bing Wallpapers (2021-10)
+
 ![](https://cn.bing.com/th?id=OHR.MistyForest_EN-US5261676101_UHD.jpg&w=1000)Today: [Misty pine forest in the Central Highlands of Vietnam (© Thanh Thuy/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.MistyForest_EN-US5261676101_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |

@@ -1,4 +1,5 @@
-## Bing Wallpaper (2021-12)
+# Bing Wallpapers (2021-12)
+
 ![](https://cn.bing.com/th?id=OHR.WesterheverLight_EN-US2289133174_UHD.jpg&w=1000)Today: [Westerheversand Lighthouse in Westerhever, Germany (© Sandra Bartocha/Minden Pictures)](https://cn.bing.com/th?id=OHR.WesterheverLight_EN-US2289133174_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
