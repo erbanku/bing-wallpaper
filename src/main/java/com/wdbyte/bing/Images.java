@@ -2,11 +2,6 @@ package com.wdbyte.bing;
 
 import java.util.Objects;
 
-/**
- * @author niujinpeng
- * @date 2021/02/08
- * @link https://github.com/niumoo
- */
 public class Images {
     private String desc;
     private String date;
