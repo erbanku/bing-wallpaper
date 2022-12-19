@@ -1,5 +1,4 @@
-# Bing Wallpapers (2022-06)
-
+## Bing Wallpaper (2022-06)
 ![](https://cn.bing.com/th?id=OHR.PhangNgaBay_EN-US7871649198_UHD.jpg&w=1000)Today: [Mangrove forest in Phang Nga Bay, Andaman Sea, Thailand (© Ratnakorn Piyasirisorost/Getty Images)](https://cn.bing.com/th?id=OHR.PhangNgaBay_EN-US7871649198_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |

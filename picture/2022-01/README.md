@@ -1,5 +1,4 @@
-# Bing Wallpapers (2022-01)
-
+## Bing Wallpaper (2022-01)
 ![](https://cn.bing.com/th?id=OHR.WinterHalo_EN-US1847885731_UHD.jpg&w=1000)Today: [Halo around the sun in the Ore Mountains, Saxony, Germany (© Martin Ruegner/Getty Images)](https://cn.bing.com/th?id=OHR.WinterHalo_EN-US1847885731_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |

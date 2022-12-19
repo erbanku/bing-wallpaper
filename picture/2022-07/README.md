@@ -1,5 +1,4 @@
-# Bing Wallpapers (2022-07)
-
+## Bing Wallpaper (2022-07)
 ![](https://cn.bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg&w=1000)Today: [Rainforest hike near Milford Sound/Piopiotahi in New Zealand (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |

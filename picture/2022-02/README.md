@@ -1,5 +1,4 @@
-# Bing Wallpapers (2022-02)
-
+## Bing Wallpaper (2022-02)
 ![](https://cn.bing.com/th?id=OHR.IPBDMom_EN-US5866127837_UHD.jpg&w=1000)Today: [Polar bear mother with cubs in Wapusk National Park, Manitoba, Canada (© Andre Gilden/Minden Pictures)](https://cn.bing.com/th?id=OHR.IPBDMom_EN-US5866127837_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |

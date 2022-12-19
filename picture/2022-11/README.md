@@ -1,5 +1,4 @@
-# Bing Wallpapers (2022-11)
-
+## Bing Wallpaper (2022-11)
 ![](https://cn.bing.com/th?id=OHR.ZNPVR_EN-US8821805600_UHD.jpg&w=1000)Today: [Virgin River in Zion National Park, Utah (© Jonathan Ross/Getty Images)](https://cn.bing.com/th?id=OHR.ZNPVR_EN-US8821805600_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |

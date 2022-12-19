@@ -1,5 +1,4 @@
-# Bing Wallpapers (2022-04)
-
+## Bing Wallpaper (2022-04)
 ![](https://cn.bing.com/th?id=OHR.RedwoodSprout_EN-US2459675162_UHD.jpg&w=1000)Today: [A young coast redwood sprouting out of an old log in Prairie Creek Redwoods State Park, California (© Hutch Axilrod/Getty Images)](https://cn.bing.com/th?id=OHR.RedwoodSprout_EN-US2459675162_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |

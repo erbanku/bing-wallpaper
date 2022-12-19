@@ -1,5 +1,4 @@
-# Bing Wallpapers (2022-05)
-
+## Bing Wallpaper (2022-05)
 ![](https://cn.bing.com/th?id=OHR.WW2Lincoln_EN-US6306243521_UHD.jpg&w=1000)Today: [Rainbow Pool and the field of stars in the World War II Memorial with the Lincoln Memorial in the background, Washington, DC (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.WW2Lincoln_EN-US6306243521_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |

@@ -1,5 +1,4 @@
-# Bing Wallpapers (2021-11)
-
+## Bing Wallpaper (2021-11)
 ![](https://cn.bing.com/th?id=OHR.RainbowMountain_EN-US6261660627_UHD.jpg&w=1000)Today: [Aerial view of snowy peaks of Vinicunca (aka Rainbow Mountain), Peru (© Jude Newkirk/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.RainbowMountain_EN-US6261660627_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |

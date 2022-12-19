@@ -1,5 +1,4 @@
-# Bing Wallpapers (2021-09)
-
+## Bing Wallpaper (2021-09)
 ![](https://cn.bing.com/th?id=OHR.WoodBison_EN-US1315596860_UHD.jpg&w=1000)Today: [A wood bison near Behchoko, in the Northwest Territories, Canada (© Don Johnston/agefotostock)](https://cn.bing.com/th?id=OHR.WoodBison_EN-US1315596860_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |

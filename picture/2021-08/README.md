@@ -1,5 +1,4 @@
-# Bing Wallpapers (2021-08)
-
+## Bing Wallpaper (2021-08)
 ![](https://cn.bing.com/th?id=OHR.MayonVolcano_EN-US2517637729_UHD.jpg&w=1000)Today: [Crater glow from Mount Mayon in the Philippines (© Per-Andre Hoffmann/Cavan)](https://cn.bing.com/th?id=OHR.MayonVolcano_EN-US2517637729_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
