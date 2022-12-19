@@ -1,5 +1,4 @@
-# Bing Wallpapers
-
+## Bing Wallpaper
 ![](https://cn.bing.com/th?id=OHR.ZNPVR_EN-US8821805600_UHD.jpg&w=1000)Today: [Virgin River in Zion National Park, Utah (© Jonathan Ross/Getty Images)](https://cn.bing.com/th?id=OHR.ZNPVR_EN-US8821805600_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
@@ -14,8 +13,7 @@
 |![](https://cn.bing.com/th?id=OHR.BrockenSpecter_EN-US5247366251_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-27 [download 4k](https://cn.bing.com/th?id=OHR.BrockenSpecter_EN-US5247366251_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.OrcusMouth_EN-US5010597701_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-26 [download 4k](https://cn.bing.com/th?id=OHR.OrcusMouth_EN-US5010597701_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.GuwahatiDiwali_EN-US3454357880_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-25 [download 4k](https://cn.bing.com/th?id=OHR.GuwahatiDiwali_EN-US3454357880_UHD.jpg)|
 |![](https://cn.bing.com/th?id=OHR.Knobbelzwaan_EN-US4809716001_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-24 [download 4k](https://cn.bing.com/th?id=OHR.Knobbelzwaan_EN-US4809716001_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.KarstMountains_EN-US4446699673_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-23 [download 4k](https://cn.bing.com/th?id=OHR.KarstMountains_EN-US4446699673_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.GeorgiaCypress_EN-US2966839861_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-22 [download 4k](https://cn.bing.com/th?id=OHR.GeorgiaCypress_EN-US2966839861_UHD.jpg)|
 
-### Archive
-
-[2022-11](/picture/2022-11/) | [2022-10](/picture/2022-10/) | [2022-09](/picture/2022-09/) | [2022-08](/picture/2022-08/) | [2022-07](/picture/2022-07/) | [2022-06](/picture/2022-06/) | [2022-05](/picture/2022-05/) | [2022-04](/picture/2022-04/) |
-[2022-03](/picture/2022-03/) | [2022-02](/picture/2022-02/) | [2022-01](/picture/2022-01/) | [2021-12](/picture/2021-12/) | [2021-11](/picture/2021-11/) | [2021-10](/picture/2021-10/) | [2021-09](/picture/2021-09/) | [2021-08](/picture/2021-08/) |
-[2021-07](/picture/2021-07/) | [2021-06](/picture/2021-06/) | [2021-05](/picture/2021-05/) | [2021-04](/picture/2021-04/) | [2021-03](/picture/2021-03/) | [2021-02](/picture/2021-02/) |
+### 历史归档：
+[2022-11](/picture/2022-11/) | [2022-10](/picture/2022-10/) | [2022-09](/picture/2022-09/) | [2022-08](/picture/2022-08/) | [2022-07](/picture/2022-07/) | [2022-06](/picture/2022-06/) | [2022-05](/picture/2022-05/) | [2022-04](/picture/2022-04/) | 
+[2022-03](/picture/2022-03/) | [2022-02](/picture/2022-02/) | [2022-01](/picture/2022-01/) | [2021-12](/picture/2021-12/) | [2021-11](/picture/2021-11/) | [2021-10](/picture/2021-10/) | [2021-09](/picture/2021-09/) | [2021-08](/picture/2021-08/) | 
+[2021-07](/picture/2021-07/) | [2021-06](/picture/2021-06/) | [2021-05](/picture/2021-05/) | [2021-04](/picture/2021-04/) | [2021-03](/picture/2021-03/) | [2021-02](/picture/2021-02/) | 

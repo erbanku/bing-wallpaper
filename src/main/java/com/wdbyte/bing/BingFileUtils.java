@@ -115,8 +115,8 @@ public class BingFileUtils {
         writeFile(README_PATH, imagesList, null);
 
         Files.write(README_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        // Archive
-        Files.write(README_PATH, "### 历史Archive：".getBytes(), StandardOpenOption.APPEND);
+        // 归档
+        Files.write(README_PATH, "### 历史归档：".getBytes(), StandardOpenOption.APPEND);
         Files.write(README_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
         List<String> dateList = imgList.stream()
             .map(Images::getDate)
