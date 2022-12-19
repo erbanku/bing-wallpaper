@@ -15,7 +15,7 @@ import com.wdbyte.bing.html.WebSiteGenerator;
 /**
  * @author niujinpeng
  * @date 2021/02/08
- * @link https://github.com/niumoo
+ * @link https://github.com/erbanku
  */
 public class Wallpaper {
 

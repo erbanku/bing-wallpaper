@@ -12,7 +12,7 @@ import java.net.URL;
  *
  * @author niujinpeng
  * @Date 2021/02/07 21:25
- * @link https://github.com/niumoo
+ * @link https://github.com/erbanku
  */
 public class HttpUtls {
 

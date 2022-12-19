@@ -17,7 +17,7 @@ import java.util.stream.Collectors;
  *
  * @author niujinpeng
  * @date 2021/02/08
- * @link https://github.com/niumoo
+ * @link https://github.com/erbanku
  */
 public class BingFileUtils {
 
