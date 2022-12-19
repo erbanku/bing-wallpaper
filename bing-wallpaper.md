@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-20 | [A northern cardinal perched in a common winterberry bush in Marion County, Illinois (© Richard and Susan Day/Danita Delimont)](https://cn.bing.com/th?id=OHR.WinterberryBush_EN-US5722169778_UHD.jpg) 
+
 2022-11-19 | [The gates of the Royal Palace (Dar al-Makhzen) in Fez, Morocco (© Adam Smigielski/Getty Images)](https://cn.bing.com/th?id=OHR.IslamicArt_EN-US8618450174_UHD.jpg) 
 
 2022-11-18 | [Bridge on the McKenzie River Trail, Willamette National Forest, Oregon (© Don Paulson/Danita Delimont)](https://cn.bing.com/th?id=OHR.McKenzieRiverTrail_EN-US2967958579_UHD.jpg) 
