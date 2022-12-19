@@ -1,6 +1,66 @@
 ## Bing Wallpaper
 2022-12-20 | [A northern cardinal perched in a common winterberry bush in Marion County, Illinois (© Richard and Susan Day/Danita Delimont)](https://cn.bing.com/th?id=OHR.WinterberryBush_EN-US5722169778_UHD.jpg) 
 
+2022-12-19 | [South Beach in Miami Beach, Florida (© Claudia Uripos/eStock Photo)](https://cn.bing.com/th?id=OHR.SouthBeach_EN-US5638482869_UHD.jpg) 
+
+2022-12-18 | [Mountain goats at Glacier National Park in Montana (© Sumio Harada/Minden Pictures)](https://cn.bing.com/th?id=OHR.GlacierGoats_EN-US5564943350_UHD.jpg) 
+
+2022-12-17 | [Holiday lights in the Atlanta Botanical Garden, Georgia (© Natalia Kuzmina/Alamy)](https://cn.bing.com/th?id=OHR.AtlantaLights_EN-US5495340965_UHD.jpg) 
+
+2022-12-16 | [Borovets, Bulgaria (© Grigor Ivanov/Cavan Images)](https://cn.bing.com/th?id=OHR.Borovets_EN-US3037571286_UHD.jpg) 
+
+2022-12-15 | [Great horned owls and a gilded flicker on a saguaro cactus in the Sonoran Desert, Arizona (© John Cancalosi/Minden Pictures)](https://cn.bing.com/th?id=OHR.GildedFlicker_EN-US2911251361_UHD.jpg) 
+
+2022-12-14 | [Hallstatt, Austria (© Jon Arnold Images Ltd/Alamy)](https://cn.bing.com/th?id=OHR.InstagramHallstatt_EN-US2608371794_UHD.jpg) 
+
+2022-12-13 | [Poinsettia plants (© Elizabeth Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.PoinsettiaDay_EN-US2361694439_UHD.jpg) 
+
+2022-12-12 | [Tangle Creek Falls in Jasper National Park, Alberta, Canada (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.TangleCreekFalls_EN-US2231198096_UHD.jpg) 
+
+2022-12-11 | [Salar de Uyuni in Bolivia (© Theo Allofs/Minden Pictures)](https://cn.bing.com/th?id=OHR.SaltDesert_EN-US2123050087_UHD.jpg) 
+
+2022-12-10 | [Muskox mother and calf in Dovre-Sunndalsfjella National Park, Norway (© Robert Haasmann/Minden Pictures)](https://cn.bing.com/th?id=OHR.NorwayMuskox_EN-US1914627688_UHD.jpg) 
+
+2022-12-09 | [The Cathedral of Florence, Italy (© Alexander Baert/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.FlorenceAerial_EN-US1751882328_UHD.jpg) 
+
+2022-12-08 | [Mokoli'I Island in Kaneohe Bay, seen from Kualoa Regional Park, Oahu, Hawaii (© Riddhish Chakraborty/Getty Images)](https://cn.bing.com/th?id=OHR.KaneoheHI_EN-US1621373073_UHD.jpg) 
+
+2022-12-07 | [A great egret in Everglades National Park, Florida (© Troy Harrison/Getty Images)](https://cn.bing.com/th?id=OHR.GreatEgret_EN-US1489292796_UHD.jpg) 
+
+2022-12-06 | [Saint Nicholas Day in Verbier, Switzerland (© Denis Balibouse/Reuters)](https://cn.bing.com/th?id=OHR.StNick_EN-US1370158441_UHD.jpg) 
+
+2022-12-05 | [Elephants near Mount Kilimanjaro, Amboseli National Park, Kenya (© Diana Robinson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.KilimanjaroElephants_EN-US1249382486_UHD.jpg) 
+
+2022-12-04 | [Miami Beach, Florida (© Matteo Colombo/Getty Images)](https://cn.bing.com/th?id=OHR.MiamiDT_EN-US0878462019_UHD.jpg) 
+
+2022-12-03 | [Tlikakila River Delta in Lake Clark National Park, Alaska (© Dawn Wilson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BraidedRiverDelta_EN-US0693594934_UHD.jpg) 
+
+2022-12-02 | [Paradise Harbour, Antarctica (© SinghaphanAllB/Getty Images)](https://cn.bing.com/th?id=OHR.AntarcticaDay_EN-US9921573438_UHD.jpg) 
+
+2022-12-01 | [The Old Town of Rovinj, Croatia (© trabantos/Shutterstock)](https://cn.bing.com/th?id=OHR.RovinjCroatia_EN-US9834093615_UHD.jpg) 
+
+2022-11-30 | [Great blue herons building a nest in Wakodahatchee Wetlands, Delray Beach, Florida (© Imagebroker/Alamy)](https://cn.bing.com/th?id=OHR.HeronGiving_EN-US9774285216_UHD.jpg) 
+
+2022-11-29 | [Mars (© NASA/Alamy)](https://cn.bing.com/th?id=OHR.RedPlanetDay_EN-US9693219784_UHD.jpg) 
+
+2022-11-28 | [Cecropia leaf atop lobster claw petals, Mexico (© Gerry Ellis/Minden Pictures)](https://cn.bing.com/th?id=OHR.Cecropia_EN-US9602789937_UHD.jpg) 
+
+2022-11-27 | [An olive tree in front of the Temple of Concordia on the island of Sicily, Italy (© Alfio Finocchiaro/Shutterstock)](https://cn.bing.com/th?id=OHR.OliveTreeDay_EN-US9460125670_UHD.jpg) 
+
+2022-11-26 | [Monks Mound at the Cahokia Mounds UNESCO World Heritage Site near Collinsville, Illinois (© Matthew Gush/Alamy)](https://cn.bing.com/th?id=OHR.MonksMound_EN-US9323884241_UHD.jpg) 
+
+2022-11-25 | [Cranberry bog (© SHSPhotography/Getty Images)](https://cn.bing.com/th?id=OHR.CranberryBog_EN-US4145520322_UHD.jpg) 
+
+2022-11-24 | [Sunflower (© Dileep Chandran/Alamy)](https://cn.bing.com/th?id=OHR.HelianthusAnnuus_EN-US9168789034_UHD.jpg) 
+
+2022-11-23 | [Red fox in Amsterdamse Waterleidingduinen Nature Reserve, Netherlands (© Edwin Giesbers/Minden Pictures)](https://cn.bing.com/th?id=OHR.Waterleidingduinen_EN-US9090200846_UHD.jpg) 
+
+2022-11-22 | [Ahmad Bin Ali Stadium in Doha, Qatar (© Qatar 2022/Supreme Committee via Getty Images)](https://cn.bing.com/th?id=OHR.FIFA2022_EN-US9006895256_UHD.jpg) 
+
+2022-11-21 | ['World in Progress II,' a land art painting by Saype, United Nations Headquarters, New York City (© Valentin Flauraud/Shutterstock)](https://cn.bing.com/th?id=OHR.LandartPainting_EN-US8910164390_UHD.jpg) 
+
+2022-11-20 | [Virgin River in Zion National Park, Utah (© Jonathan Ross/Getty Images)](https://cn.bing.com/th?id=OHR.ZNPVR_EN-US8821805600_UHD.jpg) 
+
 2022-11-19 | [The gates of the Royal Palace (Dar al-Makhzen) in Fez, Morocco (© Adam Smigielski/Getty Images)](https://cn.bing.com/th?id=OHR.IslamicArt_EN-US8618450174_UHD.jpg) 
 
 2022-11-18 | [Bridge on the McKenzie River Trail, Willamette National Forest, Oregon (© Don Paulson/Danita Delimont)](https://cn.bing.com/th?id=OHR.McKenzieRiverTrail_EN-US2967958579_UHD.jpg) 
