@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-27 | [Wat Sri Sawai in Sukhothai Historical Park, Thailand (© Casper1774 Studio/Shutterstock)](https://cn.bing.com/th?id=OHR.WatSriSawai_EN-US3779091241_UHD.jpg) 
+
 2023-05-26 | [Saksun, Faroe Islands, Denmark (© miroslav_1/Getty Images)](https://cn.bing.com/th?id=OHR.SaksunFaroe_EN-US3384967997_UHD.jpg) 
 
 2023-05-24 | [Western box turtle (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.WesternBoxTurtle_EN-US2880487603_UHD.jpg) 
