@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-20 | [Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.PiratePlayground_EN-US3254868743_UHD.jpg) 
+
 2024-09-18 | [Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy)](https://cn.bing.com/th?id=OHR.MidAutumnSingapore_EN-US5283310908_UHD.jpg) 
 
 2024-09-17 | [Wallabies at sunrise, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)](https://cn.bing.com/th?id=OHR.SunriseWallabies_EN-US5210230008_UHD.jpg) 
