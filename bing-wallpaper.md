@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-22 | [Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Cassani/Getty Images)](https://cn.bing.com/th?id=OHR.SerengetiGiraffe_EN-US2127484447_UHD.jpg) 
+
 2025-06-20 | [Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Cassani/Getty Images)](https://cn.bing.com/th?id=OHR.SerengetiGiraffe_EN-GB8989082610_UHD.jpg) 
 
 2025-06-20 | [Texas State Capitol in Austin (© joe daniel price/Getty Images)](https://cn.bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg) 
