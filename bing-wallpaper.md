@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-04 | [Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)](https://cn.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg) 
+
 2025-07-02 | [Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada (© FedevPhoto/Getty Images)](https://cn.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg) 
 
 2025-07-01 | [Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg) 
