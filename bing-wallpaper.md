@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-05 | [Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)](https://cn.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg) 
+
 2025-07-04 | [Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)](https://cn.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg) 
 
 2025-07-02 | [Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada (© FedevPhoto/Getty Images)](https://cn.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg) 
