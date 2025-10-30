@@ -23,20 +23,24 @@ public class WebSiteGenerator {
         bingImages = bingImages.stream().filter(img -> img.getUrl() != null).collect(Collectors.toList());
         Map<String, List<Images>> monthMap = BingFileUtils.convertImgListToMonthMap(bingImages);
         WebSiteGenerator generator = new WebSiteGenerator();
-        generator.htmlGeneratorIndex(bingImages, monthMap);
-        generator.htmlGeneratorMonth(monthMap);
+        // Read template once and reuse
+        String templateFile = HtmlFileUtils.readIndexTemplateFile();
+        generator.htmlGeneratorIndex(bingImages, monthMap, templateFile);
+        generator.htmlGeneratorMonth(monthMap, templateFile);
     }
 
     public void htmlGenerator() throws IOException {
         List<Images> bingImages = BingFileUtils.readBing();
         bingImages = bingImages.stream().filter(img -> img.getUrl() != null).collect(Collectors.toList());
         Map<String, List<Images>> monthMap = BingFileUtils.convertImgListToMonthMap(bingImages);
-        htmlGeneratorIndex(bingImages, monthMap);
-        htmlGeneratorMonth(monthMap);
+        
+        // Read template once and reuse
+        String templateFile = HtmlFileUtils.readIndexTemplateFile();
+        htmlGeneratorIndex(bingImages, monthMap, templateFile);
+        htmlGeneratorMonth(monthMap, templateFile);
     }
 
-    public void htmlGeneratorIndex(List<Images> bingImages, Map<String, List<Images>> monthMap) throws IOException {
-        String templateFile = HtmlFileUtils.readIndexTemplateFile();
+    public void htmlGeneratorIndex(List<Images> bingImages, Map<String, List<Images>> monthMap, String templateFile) throws IOException {
         // 替换头部图片和描述
         String indexHtml = replaceHead(templateFile, bingImages.get(0), null);
         // 替换侧边目录
@@ -49,10 +53,9 @@ public class WebSiteGenerator {
         HtmlFileUtils.writeIndexHtml(indexHtml);
     }
 
-    public void htmlGeneratorMonth(Map<String, List<Images>> monthMap) throws IOException {
+    public void htmlGeneratorMonth(Map<String, List<Images>> monthMap, String templateFile) throws IOException {
         for (String month : monthMap.keySet()) {
             List<Images> bingImages = monthMap.get(month);
-            String templateFile = HtmlFileUtils.readIndexTemplateFile();
             // 替换头部图片和描述
             String html = replaceHead(templateFile, bingImages.get(0), month);
             // 替换侧边目录
@@ -67,7 +70,7 @@ public class WebSiteGenerator {
     }
 
     public String replaceSidebar(String html, Map<String, List<Images>> monthMap, String nowMonth) {
-        StringBuilder sidebar = new StringBuilder();
+        StringBuilder sidebar = new StringBuilder(monthMap.size() * 150); // Pre-allocate capacity
         for (String month : monthMap.keySet()) {
             String sidabarMenu = Sidebar.getSidabarMenuList(month + ".html", month);
             if (month != null && month.equals(nowMonth)) {
@@ -98,7 +101,7 @@ public class WebSiteGenerator {
     }
 
     public String replaceImgList(String html, List<Images> bingImages) {
-        StringBuilder imgList = new StringBuilder();
+        StringBuilder imgList = new StringBuilder(bingImages.size() * 250); // Pre-allocate capacity
         for (Images bingImage : bingImages) {
             imgList.append(ImgCard.getImgCard(bingImage.getUrl(), bingImage.getDate()));
         }
@@ -113,13 +116,13 @@ public class WebSiteGenerator {
      * @return
      */
     public String replaceMonthHistory(String html, Map<String, List<Images>> monthMap, String nowMonth) {
-        StringBuilder monthHistory = new StringBuilder();
+        StringBuilder monthHistory = new StringBuilder(monthMap.size() * 100); // Pre-allocate capacity
         for (String month : monthMap.keySet()) {
             String history = MonthHistory.getMonthHistory(month + ".html", month);
             if (month != null && month.equals(nowMonth)) {
                 history = history.replace(MonthHistory.VAR_MONTH_HISTORY_MONTH_COLOR, MonthHistory.VAR_MONTH_HISTORY_NOW_MONTH_COLOR);
             }
-            monthHistory.append(history + " ");
+            monthHistory.append(history).append(" ");
         }
         return html.replace(MonthHistory.VAR_MONTH_HISTORY, monthHistory.toString());
     }
