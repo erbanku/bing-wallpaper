@@ -43,11 +43,11 @@ public class HttpUtls {
         // 获得输入流
         try (InputStream input = httpUrlConnection.getInputStream(); BufferedInputStream bis = new BufferedInputStream(
             input);) {
-            byte[] buffer = new byte[1024];
+            byte[] buffer = new byte[8192];
             int len = -1;
             // 读到文件末尾则返回-1
             while ((len = bis.read(buffer)) != -1) {
-                stringBuilder.append(new String(buffer, 0, len));
+                stringBuilder.append(new String(buffer, 0, len, "UTF-8"));
             }
         } catch (Exception e) {
             e.printStackTrace();

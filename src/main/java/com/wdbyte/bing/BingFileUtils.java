@@ -1,6 +1,8 @@
 package com.wdbyte.bing;
 
+import java.io.BufferedWriter;
 import java.io.IOException;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -64,12 +66,14 @@ public class BingFileUtils {
         if (!Files.exists(BING_PATH)) {
             Files.createFile(BING_PATH);
         }
-        Files.write(BING_PATH, "## Bing Wallpaper".getBytes());
-        Files.write(BING_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        for (Images images : imgList) {
-            Files.write(BING_PATH, images.formatMarkdown().getBytes(), StandardOpenOption.APPEND);
-            Files.write(BING_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-            Files.write(BING_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
+        try (BufferedWriter writer = Files.newBufferedWriter(BING_PATH, StandardCharsets.UTF_8)) {
+            writer.write("## Bing Wallpaper");
+            writer.newLine();
+            for (Images images : imgList) {
+                writer.write(images.formatMarkdown());
+                writer.newLine();
+                writer.newLine();
+            }
         }
     }
 
@@ -114,22 +118,24 @@ public class BingFileUtils {
         List<Images> imagesList = imgList.subList(0, 30);
         writeFile(README_PATH, imagesList, null);
 
-        Files.write(README_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        // 归档
-        Files.write(README_PATH, "### 历史归档：".getBytes(), StandardOpenOption.APPEND);
-        Files.write(README_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        List<String> dateList = imgList.stream()
-            .map(Images::getDate)
-            .map(date -> date.substring(0, 7))
-            .distinct()
-            .collect(Collectors.toList());
-        int i = 0;
-        for (String date : dateList) {
-            String link = String.format("[%s](/picture/%s/) | ", date, date);
-            Files.write(README_PATH, link.getBytes(), StandardOpenOption.APPEND);
-            i++;
-            if (i % 8 == 0) {
-                Files.write(README_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
+        try (BufferedWriter writer = Files.newBufferedWriter(README_PATH, StandardCharsets.UTF_8, StandardOpenOption.APPEND)) {
+            writer.newLine();
+            // 归档
+            writer.write("### 历史归档：");
+            writer.newLine();
+            List<String> dateList = imgList.stream()
+                .map(Images::getDate)
+                .map(date -> date.substring(0, 7))
+                .distinct()
+                .collect(Collectors.toList());
+            int i = 0;
+            for (String date : dateList) {
+                String link = String.format("[%s](/picture/%s/) | ", date, date);
+                writer.write(link);
+                i++;
+                if (i % 8 == 0) {
+                    writer.newLine();
+                }
             }
         }
     }
@@ -193,25 +199,27 @@ public class BingFileUtils {
         if (name != null) {
             title = "## Bing Wallpaper (" + name + ")";
         }
-        Files.write(path, title.getBytes());
-        Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        Files.write(path, imagesList.get(0).toLarge().getBytes(), StandardOpenOption.APPEND);
-        Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        Files.write(path, "|      |      |      |".getBytes(), StandardOpenOption.APPEND);
-        Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        Files.write(path, "| :----: | :----: | :----: |".getBytes(), StandardOpenOption.APPEND);
-        Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        int i = 1;
-        for (Images images : imagesList) {
-            Files.write(path, ("|" + images.toString()).getBytes(), StandardOpenOption.APPEND);
-            if (i % 3 == 0) {
-                Files.write(path, "|".getBytes(), StandardOpenOption.APPEND);
-                Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
+        try (BufferedWriter writer = Files.newBufferedWriter(path, StandardCharsets.UTF_8)) {
+            writer.write(title);
+            writer.newLine();
+            writer.write(imagesList.get(0).toLarge());
+            writer.newLine();
+            writer.write("|      |      |      |");
+            writer.newLine();
+            writer.write("| :----: | :----: | :----: |");
+            writer.newLine();
+            int i = 1;
+            for (Images images : imagesList) {
+                writer.write("|" + images.toString());
+                if (i % 3 == 0) {
+                    writer.write("|");
+                    writer.newLine();
+                }
+                i++;
             }
-            i++;
-        }
-        if (i % 3 != 1) {
-            Files.write(path, "|".getBytes(), StandardOpenOption.APPEND);
+            if (i % 3 != 1) {
+                writer.write("|");
+            }
         }
     }
 
