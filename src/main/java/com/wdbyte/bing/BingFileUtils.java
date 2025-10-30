@@ -39,12 +39,14 @@ public class BingFileUtils {
         if (!Files.exists(BING_PATH)) {
             Files.createFile(BING_PATH);
         }
-        List<String> allLines = Files.readAllLines(BING_PATH);
-        allLines = allLines.stream().filter(s -> !s.isEmpty()).collect(Collectors.toList());
-        List<Images> imgList = new ArrayList<>();
+        List<String> allLines = Files.readAllLines(BING_PATH, StandardCharsets.UTF_8);
+        List<Images> imgList = new ArrayList<>(allLines.size());
         imgList.add(new Images());
         for (int i = 1; i < allLines.size(); i++) {
             String s = allLines.get(i).trim();
+            if (s.isEmpty()) {
+                continue;
+            }
             int descEnd = s.indexOf("]");
             int urlStart = s.lastIndexOf("(") + 1;
 
@@ -87,7 +89,7 @@ public class BingFileUtils {
         if (!Files.exists(README_PATH)) {
             Files.createFile(README_PATH);
         }
-        List<String> allLines = Files.readAllLines(README_PATH);
+        List<String> allLines = Files.readAllLines(README_PATH, StandardCharsets.UTF_8);
         List<Images> imgList = new ArrayList<>();
         for (int i = 3; i < allLines.size(); i++) {
             String content = allLines.get(i);
@@ -172,13 +174,7 @@ public class BingFileUtils {
                 continue;
             }
             String key = images.getDate().substring(0, 7);
-            if (monthMap.containsKey(key)) {
-                monthMap.get(key).add(images);
-            } else {
-                ArrayList<Images> list = new ArrayList<>();
-                list.add(images);
-                monthMap.put(key, list);
-            }
+            monthMap.computeIfAbsent(key, k -> new ArrayList<>()).add(images);
         }
         return monthMap;
     }

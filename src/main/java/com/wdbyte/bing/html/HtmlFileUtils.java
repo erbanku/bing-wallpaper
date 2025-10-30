@@ -17,7 +17,7 @@ public class HtmlFileUtils {
 
     public static String readIndexTemplateFile() throws IOException {
         byte[] bytes = Files.readAllBytes(BING_HTML_INDEX_TEMPLATE);
-        return new String(bytes);
+        return new String(bytes, StandardCharsets.UTF_8);
     }
 
     public static void writeIndexHtml(String html) throws IOException {
