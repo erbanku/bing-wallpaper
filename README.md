@@ -1,4 +1,4 @@
-# Bing Wallpaper
+# Bing Wallpaper (Auto Updates Daily)
 ![](https://cn.bing.com/th?id=OHR.BranCastle_EN-US5914201029_UHD.jpg&w=1000)Today: [Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)](https://cn.bing.com/th?id=OHR.BranCastle_EN-US5914201029_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
