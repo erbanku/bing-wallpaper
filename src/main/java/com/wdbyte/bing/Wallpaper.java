@@ -10,8 +10,6 @@ import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 
-import com.wdbyte.bing.html.WebSiteGenerator;
-
 /**
  * @author niujinpeng
  * @date 2021/02/08
@@ -48,7 +46,6 @@ public class Wallpaper {
         BingFileUtils.writeBing(imagesList);
         BingFileUtils.writeReadme(imagesList);
         BingFileUtils.writeMonthInfo(imagesList);
-        new WebSiteGenerator().htmlGenerator();
     }
 
 }
