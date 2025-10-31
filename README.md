@@ -1,4 +1,25 @@
 ## Bing Wallpaper
+
+### 🌐 [View Modern Website](https://erbanku.github.io/bing-wallpaper/) | 📱 Built with Next.js
+
+This repository automatically fetches and archives daily 4K wallpapers from Bing, now featuring a modern, responsive web interface built with Next.js.
+
+### Features
+- 🎨 **Modern UI**: Beautiful, responsive design with Tailwind CSS
+- 📱 **Mobile Friendly**: Optimized for all screen sizes
+- 🖼️ **4K Wallpapers**: High-resolution images updated daily
+- 🗂️ **Monthly Archives**: Browse wallpapers by month from 2021 onwards
+- ⚡ **Fast Performance**: Static site generation for optimal loading
+- 🌙 **Dark Mode Ready**: Supports dark mode preferences
+
+### Technology Stack
+- **Frontend**: Next.js 16 with TypeScript and Tailwind CSS
+- **Backend**: Java (Maven) for fetching and processing Bing wallpapers
+- **Deployment**: Automated via GitHub Actions
+- **Hosting**: GitHub Pages
+
+---
+
 ![](https://cn.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg&w=1000)Today: [Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)](https://cn.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |

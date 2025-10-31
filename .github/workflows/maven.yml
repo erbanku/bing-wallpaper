@@ -24,6 +24,25 @@ jobs:
       run: mvn -B package --file pom.xml
     - name: Run Java Application
       run: java -jar target/bing-wallpaper-jar-with-dependencies.jar
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20'
+        cache: 'npm'
+        cache-dependency-path: nextjs-app/package-lock.json
+    - name: Install Next.js dependencies
+      run: |
+        cd nextjs-app
+        npm ci
+    - name: Build Next.js application
+      run: |
+        cd nextjs-app
+        npm run build
+    - name: Copy Next.js build to docs
+      run: |
+        rm -rf docs/*
+        cp -r nextjs-app/out/* docs/
+        touch docs/.nojekyll
     - name: Commit files
       run: |
          git config --local user.email "erbanku@gmail.com"
@@ -33,7 +52,7 @@ jobs:
          git add bing-wallpaper.md
          git add picture/*
          git add docs/*
-         git commit -m "update readme.md"
+         git commit -m "update readme.md and rebuild site"
     - name: Push changes
       uses:  ad-m/github-push-action@master
       with:
