@@ -21,7 +21,7 @@ export default async function ArchivePage({
   return (
     <div className="min-h-screen">
       {/* Header */}
-      <header className="bg-gradient-to-r from-blue-600 to-purple-700 text-white py-12">
+      <header className="bg-slate-700 text-white py-12">
         <div className="max-w-7xl mx-auto px-4">
           <Link
             href="/"
@@ -60,8 +60,8 @@ export default async function ArchivePage({
                 href={`/archive/${m}`}
                 className={`px-4 py-2 rounded-lg transition-all ${
                   m === month
-                    ? "bg-blue-600 text-white shadow-lg"
-                    : "bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-blue-100 dark:hover:bg-gray-700"
+                    ? "bg-slate-600 text-white shadow-lg"
+                    : "bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-slate-100 dark:hover:bg-gray-700"
                 }`}
               >
                 {m}
@@ -88,7 +88,7 @@ export default async function ArchivePage({
                     className="object-cover"
                   />
                 </div>
-                <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                <div className="absolute inset-0 bg-slate-800/85 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                   <div className="absolute bottom-0 left-0 right-0 p-4 text-white">
                     <p className="text-sm font-medium mb-1">{wallpaper.date}</p>
                     <p className="text-xs line-clamp-2 mb-2">{wallpaper.copyright}</p>
@@ -123,7 +123,7 @@ export default async function ArchivePage({
               href="https://github.com/erbanku/bing-wallpaper"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-blue-600 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 font-medium"
+              className="text-slate-600 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-300 font-medium"
             >
               GitHub.com/erbanku
             </a>
