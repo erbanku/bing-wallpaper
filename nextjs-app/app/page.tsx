@@ -19,7 +19,7 @@ export default function Home() {
             className="object-cover"
             priority
           />
-          <div className="absolute inset-0 bg-gradient-to-b from-black/50 via-black/30 to-black/70" />
+          <div className="absolute inset-0 bg-slate-900/60" />
           <div className="absolute inset-0 flex flex-col items-center justify-center text-white px-4">
             <h1 className="text-5xl md:text-7xl font-bold mb-4 text-center">
               Bing Wallpaper
@@ -54,7 +54,7 @@ export default function Home() {
                     className="object-cover"
                   />
                 </div>
-                <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                <div className="absolute inset-0 bg-slate-800/85 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                   <div className="absolute bottom-0 left-0 right-0 p-4 text-white">
                     <p className="text-sm font-medium mb-1">{wallpaper.date}</p>
                     <p className="text-xs line-clamp-2">{wallpaper.copyright}</p>
@@ -81,7 +81,7 @@ export default function Home() {
               <Link
                 key={month}
                 href={`/archive/${month}`}
-                className="px-6 py-3 bg-gradient-to-r from-blue-500 to-purple-600 text-white rounded-lg hover:from-blue-600 hover:to-purple-700 transition-all duration-300 shadow-md hover:shadow-lg transform hover:scale-105"
+                className="px-6 py-3 bg-slate-600 text-white rounded-lg hover:bg-slate-700 transition-all duration-300 shadow-md hover:shadow-lg transform hover:scale-105"
               >
                 {month}
               </Link>
@@ -99,7 +99,7 @@ export default function Home() {
               href="https://github.com/erbanku/bing-wallpaper"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-blue-600 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 font-medium"
+              className="text-slate-600 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-300 font-medium"
             >
               GitHub.com/erbanku
             </a>
