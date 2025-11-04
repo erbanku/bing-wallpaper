@@ -1,10 +1,11 @@
 import Image from "next/image";
 import Link from "next/link";
-import { getRecentWallpapers, getAvailableMonths } from "@/lib/wallpaper";
+import { getRecentWallpapers, getMonthsByYear } from "@/lib/wallpaper";
 
 export default function Home() {
   const wallpapers = getRecentWallpapers(30);
-  const months = getAvailableMonths();
+  const monthsByYear = getMonthsByYear();
+  const years = Object.keys(monthsByYear).sort().reverse();
   const featuredWallpaper = wallpapers[0];
 
   return (
@@ -76,15 +77,24 @@ export default function Home() {
         {/* Archive Section */}
         <section>
           <h2 className="text-3xl font-bold mb-8">Browse by Month</h2>
-          <div className="flex flex-wrap gap-3">
-            {months.map((month) => (
-              <Link
-                key={month}
-                href={`/archive/${month}`}
-                className="px-6 py-3 bg-slate-600 text-white rounded-lg hover:bg-slate-700 transition-all duration-300 shadow-md hover:shadow-lg transform hover:scale-105"
-              >
-                {month}
-              </Link>
+          <div className="space-y-8">
+            {years.map((year) => (
+              <div key={year} className="space-y-3">
+                <h3 className="text-2xl font-semibold text-slate-700 dark:text-slate-300 border-b border-slate-300 dark:border-slate-600 pb-2">
+                  {year}
+                </h3>
+                <div className="flex flex-wrap gap-3">
+                  {monthsByYear[year].map((month) => (
+                    <Link
+                      key={month}
+                      href={`/archive/${month}`}
+                      className="px-5 py-2.5 bg-slate-600 text-white rounded-lg hover:bg-slate-700 transition-all duration-300 shadow-md hover:shadow-lg transform hover:scale-105 text-sm font-medium"
+                    >
+                      {month.substring(5, 7)}
+                    </Link>
+                  ))}
+                </div>
+              </div>
             ))}
           </div>
         </section>

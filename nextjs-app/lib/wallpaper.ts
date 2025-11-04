@@ -78,3 +78,19 @@ export function getRecentWallpapers(count: number = 30): Wallpaper[] {
   const wallpapers = getWallpapers();
   return wallpapers.slice(0, count);
 }
+
+// Get months grouped by year
+export function getMonthsByYear(): Record<string, string[]> {
+  const months = getAvailableMonths();
+  const grouped: Record<string, string[]> = {};
+
+  for (const month of months) {
+    const year = month.substring(0, 4);
+    if (!grouped[year]) {
+      grouped[year] = [];
+    }
+    grouped[year].push(month);
+  }
+
+  return grouped;
+}

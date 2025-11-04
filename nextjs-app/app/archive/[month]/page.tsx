@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { getWallpapersForMonth, getAvailableMonths } from "@/lib/wallpaper";
+import { getWallpapersForMonth, getAvailableMonths, getMonthsByYear } from "@/lib/wallpaper";
 
 export async function generateStaticParams() {
   const months = getAvailableMonths();
@@ -17,6 +17,9 @@ export default async function ArchivePage({
   const { month } = await params;
   const wallpapers = getWallpapersForMonth(month);
   const allMonths = getAvailableMonths();
+  const monthsByYear = getMonthsByYear();
+  const years = Object.keys(monthsByYear).sort().reverse();
+  const currentYear = month.substring(0, 4);
 
   return (
     <div className="min-h-screen">
@@ -53,19 +56,28 @@ export default async function ArchivePage({
       {/* Month Navigation */}
       <div className="bg-gray-100 dark:bg-gray-900 py-6">
         <div className="max-w-7xl mx-auto px-4">
-          <div className="flex flex-wrap gap-2">
-            {allMonths.map((m) => (
-              <Link
-                key={m}
-                href={`/archive/${m}`}
-                className={`px-4 py-2 rounded-lg transition-all ${
-                  m === month
-                    ? "bg-slate-600 text-white shadow-lg"
-                    : "bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-slate-100 dark:hover:bg-gray-700"
-                }`}
-              >
-                {m}
-              </Link>
+          <div className="space-y-4">
+            {years.map((year) => (
+              <div key={year} className="space-y-2">
+                <h3 className="text-lg font-semibold text-slate-700 dark:text-slate-300">
+                  {year}
+                </h3>
+                <div className="flex flex-wrap gap-2">
+                  {monthsByYear[year].map((m) => (
+                    <Link
+                      key={m}
+                      href={`/archive/${m}`}
+                      className={`px-4 py-2 rounded-lg transition-all text-sm font-medium ${
+                        m === month
+                          ? "bg-slate-600 text-white shadow-lg"
+                          : "bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-slate-100 dark:hover:bg-gray-700"
+                      }`}
+                    >
+                      {m.substring(5, 7)}
+                    </Link>
+                  ))}
+                </div>
+              </div>
             ))}
           </div>
         </div>
