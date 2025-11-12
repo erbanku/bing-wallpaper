@@ -14,11 +14,12 @@ export default function Home() {
       {featuredWallpaper && (
         <section className="relative h-[70vh] overflow-hidden">
           <Image
-            src={featuredWallpaper.url}
+            src={featuredWallpaper.thumbnailUrl}
             alt={featuredWallpaper.copyright}
             fill
             className="object-cover"
             priority
+            sizes="100vw"
           />
           <div className="absolute inset-0 bg-slate-900/60" />
           <div className="absolute inset-0 flex flex-col items-center justify-center text-white px-4">
@@ -53,6 +54,8 @@ export default function Home() {
                     alt={wallpaper.copyright}
                     fill
                     className="object-cover"
+                    loading="lazy"
+                    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                   />
                 </div>
                 <div className="absolute inset-0 bg-slate-800/85 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
