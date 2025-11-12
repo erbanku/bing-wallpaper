@@ -8,8 +8,20 @@ export interface Wallpaper {
   thumbnailUrl: string;
 }
 
+// Cache for parsed wallpapers to avoid re-parsing on every request
+let wallpapersCache: Wallpaper[] | null = null;
+let cacheTimestamp: number = 0;
+const CACHE_TTL = 60000; // 60 seconds cache TTL
+
 // Parse the markdown file to extract wallpaper data
 export function getWallpapers(): Wallpaper[] {
+  const now = Date.now();
+  
+  // Return cached data if valid
+  if (wallpapersCache && (now - cacheTimestamp) < CACHE_TTL) {
+    return wallpapersCache;
+  }
+
   const filePath = path.join(process.cwd(), '..', 'bing-wallpaper.md');
   
   if (!fs.existsSync(filePath)) {
@@ -41,6 +53,10 @@ export function getWallpapers(): Wallpaper[] {
       });
     }
   }
+
+  // Update cache
+  wallpapersCache = wallpapers;
+  cacheTimestamp = now;
 
   return wallpapers;
 }
