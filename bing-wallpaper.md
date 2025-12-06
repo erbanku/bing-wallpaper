@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-07 | [Spider webs in Everglades National Park, Florida (© Troy Harrison/Getty Images)](https://cn.bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg) 
+
 2025-12-05 | [Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)](https://cn.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg) 
 
 2025-12-04 | [Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico (© Jack Dykinga/Minden Pictures)](https://cn.bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg) 
