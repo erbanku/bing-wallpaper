@@ -189,15 +189,15 @@ export default function ImageLightbox({ images, initialIndex, onClose }: ImageLi
         </div>
 
         {/* Image information */}
-        <div className="w-full max-w-3xl bg-slate-900/80 backdrop-blur-sm rounded-lg p-6 text-white text-center">
-          <p className="text-lg font-semibold mb-2">{currentImage.date}</p>
-          <p className="text-sm mb-4 opacity-90">{currentImage.copyright}</p>
+        <div className="w-full max-w-3xl p-6 text-white text-center">
+          <p className="text-lg font-semibold mb-2 drop-shadow-lg">{currentImage.date}</p>
+          <p className="text-sm mb-4 opacity-90 drop-shadow-lg">{currentImage.copyright}</p>
           
           {/* Download button */}
           <div className="flex justify-center">
             <button
               onClick={handleDownload}
-              className="inline-flex items-center px-6 py-3 bg-white/20 hover:bg-white/30 rounded-lg transition-colors font-medium"
+              className="inline-flex items-center px-6 py-3 bg-white/20 hover:bg-white/30 rounded-lg transition-colors font-medium backdrop-blur-sm"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -218,7 +218,7 @@ export default function ImageLightbox({ images, initialIndex, onClose }: ImageLi
           </div>
 
           {/* Image counter */}
-          <p className="text-sm mt-4 opacity-75">
+          <p className="text-sm mt-4 opacity-75 drop-shadow-lg">
             {currentIndex + 1} / {images.length}
           </p>
         </div>
