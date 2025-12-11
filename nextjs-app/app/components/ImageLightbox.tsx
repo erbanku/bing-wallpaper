@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useCallback } from 'react';
 import Image from 'next/image';
 
 export interface LightboxImage {
@@ -20,17 +20,17 @@ export default function ImageLightbox({ images, initialIndex, onClose }: ImageLi
 
   const currentImage = images[currentIndex];
 
-  const goToPrevious = () => {
+  const goToPrevious = useCallback(() => {
     setCurrentIndex((prevIndex) => 
       prevIndex > 0 ? prevIndex - 1 : images.length - 1
     );
-  };
+  }, [images.length]);
 
-  const goToNext = () => {
+  const goToNext = useCallback(() => {
     setCurrentIndex((prevIndex) => 
       prevIndex < images.length - 1 ? prevIndex + 1 : 0
     );
-  };
+  }, [images.length]);
 
   const handleDownload = () => {
     window.open(currentImage.url, '_blank');
@@ -55,7 +55,7 @@ export default function ImageLightbox({ images, initialIndex, onClose }: ImageLi
       window.removeEventListener('keydown', handleKeyDown);
       document.body.style.overflow = 'unset';
     };
-  }, [onClose]);
+  }, [onClose, goToPrevious, goToNext]);
 
   return (
     <div 

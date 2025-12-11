@@ -8,6 +8,13 @@ interface WallpaperGridProps {
   wallpapers: LightboxImage[];
 }
 
+// Helper function to generate thumbnail URL
+function getThumbnailUrl(url: string): string {
+  return url.includes('?') 
+    ? `${url}&pid=hp&w=384&h=216&rs=1&c=4`
+    : `${url}?pid=hp&w=384&h=216&rs=1&c=4`;
+}
+
 export default function WallpaperGrid({ wallpapers }: WallpaperGridProps) {
   const [lightboxOpen, setLightboxOpen] = useState(false);
   const [lightboxIndex, setLightboxIndex] = useState(0);
@@ -28,9 +35,7 @@ export default function WallpaperGrid({ wallpapers }: WallpaperGridProps) {
           >
             <div className="relative aspect-video">
               <Image
-                src={wallpaper.url.includes('?') 
-                  ? `${wallpaper.url}&pid=hp&w=384&h=216&rs=1&c=4`
-                  : `${wallpaper.url}?pid=hp&w=384&h=216&rs=1&c=4`}
+                src={getThumbnailUrl(wallpaper.url)}
                 alt={wallpaper.copyright}
                 fill
                 className="object-cover"
