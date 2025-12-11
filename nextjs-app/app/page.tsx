@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { getRecentWallpapers, getMonthsByYear } from "@/lib/wallpaper";
+import WallpaperGrid from "./components/WallpaperGrid";
 
 export default function Home() {
   const wallpapers = getRecentWallpapers(30);
@@ -42,39 +43,7 @@ export default function Home() {
         {/* Recent Wallpapers Grid */}
         <section className="mb-16">
           <h2 className="text-3xl font-bold mb-8">Recent Wallpapers</h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {wallpapers.map((wallpaper) => (
-              <div
-                key={wallpaper.date}
-                className="group relative overflow-hidden rounded-lg shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:scale-[1.02]"
-              >
-                <div className="relative aspect-video">
-                  <Image
-                    src={wallpaper.thumbnailUrl}
-                    alt={wallpaper.copyright}
-                    fill
-                    className="object-cover"
-                    loading="lazy"
-                    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                  />
-                </div>
-                <div className="absolute inset-0 bg-slate-800/85 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                  <div className="absolute bottom-0 left-0 right-0 p-4 text-white">
-                    <p className="text-sm font-medium mb-1">{wallpaper.date}</p>
-                    <p className="text-xs line-clamp-2">{wallpaper.copyright}</p>
-                    <a
-                      href={wallpaper.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="inline-block mt-2 text-xs bg-white/20 hover:bg-white/30 px-3 py-1 rounded backdrop-blur-sm transition-colors"
-                    >
-                      Download 4K
-                    </a>
-                  </div>
-                </div>
-              </div>
-            ))}
-          </div>
+          <WallpaperGrid wallpapers={wallpapers} />
         </section>
 
         {/* Archive Section */}
