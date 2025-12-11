@@ -177,7 +177,7 @@ export default function ImageLightbox({ images, initialIndex, onClose }: ImageLi
       >
         {/* Image container */}
         <div className="relative w-full flex-1 flex items-center justify-center mb-6">
-          <div className="relative w-full h-full max-h-[95vh]">
+          <div className="relative w-full h-full max-h-[98vh]">
             <Image
               src={currentImage.url}
               alt={currentImage.copyright}
@@ -198,11 +198,11 @@ export default function ImageLightbox({ images, initialIndex, onClose }: ImageLi
           <div className="flex justify-center">
             <button
               onClick={handleDownload}
-              className="inline-flex items-center px-6 py-3 bg-white/20 hover:bg-white/30 rounded-lg transition-colors font-medium backdrop-blur-sm"
+              className="inline-flex items-center px-4 py-2 bg-white/20 hover:bg-white/30 rounded-lg transition-colors font-medium backdrop-blur-sm text-sm"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                className="h-5 w-5 mr-2"
+                className="h-4 w-4 mr-2"
                 fill="none"
                 viewBox="0 0 24 24"
                 stroke="currentColor"
