@@ -119,8 +119,12 @@ public class BingFileUtils {
         }
         // Filter out null/empty images
         List<Images> validImages = imgList.stream()
-            .filter(img -> img.getUrl() != null && img.getDate() != null)
+            .filter(img -> img != null && img.getUrl() != null && img.getDate() != null)
             .collect(Collectors.toList());
+        
+        if (validImages.isEmpty()) {
+            return; // Nothing to write
+        }
         
         List<Images> imagesList = validImages.subList(0, Math.min(30, validImages.size()));
         writeFile(README_PATH, imagesList, null);
