@@ -32,8 +32,33 @@ export default function ImageLightbox({ images, initialIndex, onClose }: ImageLi
     );
   }, [images.length]);
 
-  const handleDownload = () => {
-    window.open(currentImage.url, '_blank');
+  const handleDownload = async () => {
+    try {
+      // Extract file extension from URL
+      const url = new URL(currentImage.url);
+      const pathname = url.pathname;
+      const extension = pathname.substring(pathname.lastIndexOf('.')) || '.jpg';
+      
+      // Create filename with date
+      const filename = `${currentImage.date}${extension}`;
+      
+      // Fetch the image
+      const response = await fetch(currentImage.url);
+      const blob = await response.blob();
+      
+      // Create download link
+      const blobUrl = window.URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.href = blobUrl;
+      link.download = filename;
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+      window.URL.revokeObjectURL(blobUrl);
+    } catch (error) {
+      // Fallback to opening in new tab if download fails
+      window.open(currentImage.url, '_blank');
+    }
   };
 
   useEffect(() => {
@@ -140,8 +165,8 @@ export default function ImageLightbox({ images, initialIndex, onClose }: ImageLi
         onClick={(e) => e.stopPropagation()}
       >
         {/* Image container */}
-        <div className="relative w-full flex-1 flex items-center justify-center mb-4">
-          <div className="relative w-full h-full max-h-[70vh]">
+        <div className="relative w-full flex-1 flex items-center justify-center mb-6">
+          <div className="relative w-full h-full max-h-[80vh]">
             <Image
               src={currentImage.url}
               alt={currentImage.copyright}
@@ -154,31 +179,33 @@ export default function ImageLightbox({ images, initialIndex, onClose }: ImageLi
         </div>
 
         {/* Image information */}
-        <div className="w-full max-w-3xl bg-slate-900/80 backdrop-blur-sm rounded-lg p-6 text-white">
+        <div className="w-full max-w-3xl bg-slate-900/80 backdrop-blur-sm rounded-lg p-6 text-white text-center">
           <p className="text-lg font-semibold mb-2">{currentImage.date}</p>
           <p className="text-sm mb-4 opacity-90">{currentImage.copyright}</p>
           
           {/* Download button */}
-          <button
-            onClick={handleDownload}
-            className="inline-flex items-center px-6 py-3 bg-white/20 hover:bg-white/30 rounded-lg transition-colors font-medium"
-          >
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              className="h-5 w-5 mr-2"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
+          <div className="flex justify-center">
+            <button
+              onClick={handleDownload}
+              className="inline-flex items-center px-6 py-3 bg-white/20 hover:bg-white/30 rounded-lg transition-colors font-medium"
             >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={2}
-                d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"
-              />
-            </svg>
-            Download 4K Image
-          </button>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                className="h-5 w-5 mr-2"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"
+                />
+              </svg>
+              Download 4K Image
+            </button>
+          </div>
 
           {/* Image counter */}
           <p className="text-sm mt-4 opacity-75">

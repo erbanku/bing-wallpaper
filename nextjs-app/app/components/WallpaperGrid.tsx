@@ -1,11 +1,12 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import ImageLightbox, { LightboxImage } from './ImageLightbox';
 
 interface WallpaperGridProps {
   wallpapers: LightboxImage[];
+  allWallpapers?: LightboxImage[];
 }
 
 // Helper function to generate thumbnail URL
@@ -15,12 +16,24 @@ function getThumbnailUrl(url: string): string {
     : `${url}?pid=hp&w=384&h=216&rs=1&c=4`;
 }
 
-export default function WallpaperGrid({ wallpapers }: WallpaperGridProps) {
+export default function WallpaperGrid({ wallpapers, allWallpapers }: WallpaperGridProps) {
   const [lightboxOpen, setLightboxOpen] = useState(false);
   const [lightboxIndex, setLightboxIndex] = useState(0);
 
+  // Use all wallpapers if provided, otherwise fall back to current wallpapers
+  const lightboxImages = allWallpapers && allWallpapers.length > 0 ? allWallpapers : wallpapers;
+
   const openLightbox = (index: number) => {
-    setLightboxIndex(index);
+    // If we have all wallpapers, find the global index
+    if (allWallpapers && allWallpapers.length > 0) {
+      const currentWallpaper = wallpapers[index];
+      const globalIndex = allWallpapers.findIndex(
+        w => w.date === currentWallpaper.date
+      );
+      setLightboxIndex(globalIndex >= 0 ? globalIndex : index);
+    } else {
+      setLightboxIndex(index);
+    }
     setLightboxOpen(true);
   };
 
@@ -64,7 +77,7 @@ export default function WallpaperGrid({ wallpapers }: WallpaperGridProps) {
 
       {lightboxOpen && (
         <ImageLightbox
-          images={wallpapers}
+          images={lightboxImages}
           initialIndex={lightboxIndex}
           onClose={() => setLightboxOpen(false)}
         />
