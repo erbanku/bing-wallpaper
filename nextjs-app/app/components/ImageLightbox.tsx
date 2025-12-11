@@ -34,8 +34,14 @@ export default function ImageLightbox({ images, initialIndex, onClose }: ImageLi
 
   const handleDownload = async () => {
     try {
-      // Extract file extension from URL
+      // Validate URL is from expected image host
       const url = new URL(currentImage.url);
+      if (!url.hostname.endsWith('bing.com')) {
+        console.error('Invalid image URL domain');
+        return;
+      }
+      
+      // Extract file extension from URL
       const pathname = url.pathname;
       const extension = pathname.substring(pathname.lastIndexOf('.')) || '.jpg';
       
@@ -44,6 +50,9 @@ export default function ImageLightbox({ images, initialIndex, onClose }: ImageLi
       
       // Fetch the image
       const response = await fetch(currentImage.url);
+      if (!response.ok) {
+        throw new Error('Download failed');
+      }
       const blob = await response.blob();
       
       // Create download link
@@ -56,8 +65,9 @@ export default function ImageLightbox({ images, initialIndex, onClose }: ImageLi
       document.body.removeChild(link);
       window.URL.revokeObjectURL(blobUrl);
     } catch (error) {
-      // Fallback to opening in new tab if download fails
-      window.open(currentImage.url, '_blank');
+      console.error('Download error:', error);
+      // User-friendly error message instead of opening in new tab
+      alert('Failed to download image. Please try again.');
     }
   };
 
