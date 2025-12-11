@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { getWallpapersForMonth, getAvailableMonths, getMonthsByYear } from "@/lib/wallpaper";
+import { getWallpapersForMonth, getAvailableMonths, getMonthsByYear, getWallpapers } from "@/lib/wallpaper";
 import WallpaperGrid from "@/app/components/WallpaperGrid";
 
 export async function generateStaticParams() {
@@ -17,6 +17,7 @@ export default async function ArchivePage({
 }) {
   const { month } = await params;
   const wallpapers = getWallpapersForMonth(month);
+  const allWallpapers = getWallpapers(); // Get all wallpapers for chronological navigation
   const allMonths = getAvailableMonths();
   const monthsByYear = getMonthsByYear();
   const years = Object.keys(monthsByYear).sort().reverse();
@@ -87,7 +88,7 @@ export default async function ArchivePage({
       {/* Wallpapers Grid */}
       <main className="max-w-7xl mx-auto px-4 py-12">
         {wallpapers.length > 0 ? (
-          <WallpaperGrid wallpapers={wallpapers} />
+          <WallpaperGrid wallpapers={wallpapers} allWallpapers={allWallpapers} />
         ) : (
           <div className="text-center py-20">
             <p className="text-xl text-gray-500 dark:text-gray-400">

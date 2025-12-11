@@ -1,10 +1,11 @@
 import Image from "next/image";
 import Link from "next/link";
-import { getRecentWallpapers, getMonthsByYear } from "@/lib/wallpaper";
+import { getRecentWallpapers, getMonthsByYear, getWallpapers } from "@/lib/wallpaper";
 import WallpaperGrid from "./components/WallpaperGrid";
 
 export default function Home() {
   const wallpapers = getRecentWallpapers(30);
+  const allWallpapers = getWallpapers(); // Get all wallpapers for chronological navigation
   const monthsByYear = getMonthsByYear();
   const years = Object.keys(monthsByYear).sort().reverse();
   const featuredWallpaper = wallpapers[0];
@@ -43,7 +44,7 @@ export default function Home() {
         {/* Recent Wallpapers Grid */}
         <section className="mb-16">
           <h2 className="text-3xl font-bold mb-8">Recent Wallpapers</h2>
-          <WallpaperGrid wallpapers={wallpapers} />
+          <WallpaperGrid wallpapers={wallpapers} allWallpapers={allWallpapers} />
         </section>
 
         {/* Archive Section */}
