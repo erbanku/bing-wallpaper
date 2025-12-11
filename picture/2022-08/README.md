@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2022-08)
-![](https://cn.bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg&w=1000)Today: [Regional Park of Migliarino, San Rossore, Massaciuccoli, Italy (© Stefano Valeri/Alamy)](https://cn.bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg&w=1000)
+
+**Featured Image:** [Regional Park of Migliarino, San Rossore, Massaciuccoli, Italy (© Stefano Valeri/Alamy)](https://cn.bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-08-31 [download 4k](https://cn.bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.EstoniaBaltic_EN-US6923966670_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-08-30 [download 4k](https://cn.bing.com/th?id=OHR.EstoniaBaltic_EN-US6923966670_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.BeardedTit_EN-US6692547915_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-08-29 [download 4k](https://cn.bing.com/th?id=OHR.BeardedTit_EN-US6692547915_UHD.jpg)|

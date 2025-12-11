@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2021-10)
-![](https://cn.bing.com/th?id=OHR.MistyForest_EN-US5261676101_UHD.jpg&w=1000)Today: [Misty pine forest in the Central Highlands of Vietnam (© Thanh Thuy/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.MistyForest_EN-US5261676101_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.MistyForest_EN-US5261676101_UHD.jpg&w=1000)
+
+**Featured Image:** [Misty pine forest in the Central Highlands of Vietnam (© Thanh Thuy/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.MistyForest_EN-US5261676101_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.MistyForest_EN-US5261676101_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-10-31 [download 4k](https://cn.bing.com/th?id=OHR.MistyForest_EN-US5261676101_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.UnkindnessRavens_EN-US5051823062_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-10-30 [download 4k](https://cn.bing.com/th?id=OHR.UnkindnessRavens_EN-US5051823062_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.Dargavs_EN-US4957085337_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-10-29 [download 4k](https://cn.bing.com/th?id=OHR.Dargavs_EN-US4957085337_UHD.jpg)|

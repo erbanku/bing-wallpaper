@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2024-03)
-![](https://cn.bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg&w=1000)Today: [Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)](https://cn.bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg&w=1000)
+
+**Featured Image:** [Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)](https://cn.bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-03-31 [download 4k](https://cn.bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.SouthStackLight_EN-US2733077237_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-03-30 [download 4k](https://cn.bing.com/th?id=OHR.SouthStackLight_EN-US2733077237_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-03-29 [download 4k](https://cn.bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_UHD.jpg)|

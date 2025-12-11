@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2024-02)
-![](https://cn.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg&w=1000)Today: [Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)](https://cn.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg&w=1000)
+
+**Featured Image:** [Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)](https://cn.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-02-29 [download 4k](https://cn.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-02-28 [download 4k](https://cn.bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.GrandCanyonWinter_EN-US3010552047_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-02-27 [download 4k](https://cn.bing.com/th?id=OHR.GrandCanyonWinter_EN-US3010552047_UHD.jpg)|

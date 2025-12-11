@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2024-12)
-![](https://cn.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg&w=1000)Today: [Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)](https://cn.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg&w=1000)
+
+**Featured Image:** [Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)](https://cn.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-12-31 [download 4k](https://cn.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-12-30 [download 4k](https://cn.bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.CoralTurtle_EN-US6100263163_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-12-29 [download 4k](https://cn.bing.com/th?id=OHR.CoralTurtle_EN-US6100263163_UHD.jpg)|

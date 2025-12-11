@@ -25,7 +25,7 @@ public class Images {
 
     public String toLarge() {
         String smallUrl = url + "&w=1000";
-        return String.format("![](%s)Today: [%s](%s)", smallUrl, desc, url);
+        return String.format("![Featured Image](%s)\n\n**Featured Image:** [%s](%s)", smallUrl, desc, url);
     }
 
     public String getDesc() {

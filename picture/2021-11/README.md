@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2021-11)
-![](https://cn.bing.com/th?id=OHR.RainbowMountain_EN-US6261660627_UHD.jpg&w=1000)Today: [Aerial view of snowy peaks of Vinicunca (aka Rainbow Mountain), Peru (© Jude Newkirk/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.RainbowMountain_EN-US6261660627_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.RainbowMountain_EN-US6261660627_UHD.jpg&w=1000)
+
+**Featured Image:** [Aerial view of snowy peaks of Vinicunca (aka Rainbow Mountain), Peru (© Jude Newkirk/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.RainbowMountain_EN-US6261660627_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.RainbowMountain_EN-US6261660627_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-11-30 [download 4k](https://cn.bing.com/th?id=OHR.RainbowMountain_EN-US6261660627_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.CentennialBridge_EN-US6155436919_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-11-29 [download 4k](https://cn.bing.com/th?id=OHR.CentennialBridge_EN-US6155436919_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.PennStation_EN-US6091764013_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-11-28 [download 4k](https://cn.bing.com/th?id=OHR.PennStation_EN-US6091764013_UHD.jpg)|

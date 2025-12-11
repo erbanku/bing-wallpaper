@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2021-06)
-![](https://cn.bing.com/th?id=OHR.RocksSeychelles_EN-US7406548278_UHD.jpg&w=1000)Today: [Rocks on Anse Source d'Argent beach, La Digue Island, Seychelles (© Roland Gerth/eStock Photo)](https://cn.bing.com/th?id=OHR.RocksSeychelles_EN-US7406548278_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.RocksSeychelles_EN-US7406548278_UHD.jpg&w=1000)
+
+**Featured Image:** [Rocks on Anse Source d'Argent beach, La Digue Island, Seychelles (© Roland Gerth/eStock Photo)](https://cn.bing.com/th?id=OHR.RocksSeychelles_EN-US7406548278_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.RocksSeychelles_EN-US7406548278_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-06-30 [download 4k](https://cn.bing.com/th?id=OHR.RocksSeychelles_EN-US7406548278_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.Cittadella_EN-US6067516722_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-06-29 [download 4k](https://cn.bing.com/th?id=OHR.Cittadella_EN-US6067516722_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.LCPAPride_EN-US5979726065_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-06-28 [download 4k](https://cn.bing.com/th?id=OHR.LCPAPride_EN-US5979726065_UHD.jpg)|

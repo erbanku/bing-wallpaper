@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2022-03)
-![](https://cn.bing.com/th?id=OHR.BeltedGalloway_EN-US0423647307_UHD.jpg&w=1000)Today: [Belted Galloway cows in Scotland (© JohnFScott/Getty Images)](https://cn.bing.com/th?id=OHR.BeltedGalloway_EN-US0423647307_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.BeltedGalloway_EN-US0423647307_UHD.jpg&w=1000)
+
+**Featured Image:** [Belted Galloway cows in Scotland (© JohnFScott/Getty Images)](https://cn.bing.com/th?id=OHR.BeltedGalloway_EN-US0423647307_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.BeltedGalloway_EN-US0423647307_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-03-31 [download 4k](https://cn.bing.com/th?id=OHR.BeltedGalloway_EN-US0423647307_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.Buritaca_EN-US0256425153_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-03-30 [download 4k](https://cn.bing.com/th?id=OHR.Buritaca_EN-US0256425153_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.Kawachi_EN-US0111381625_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-03-29 [download 4k](https://cn.bing.com/th?id=OHR.Kawachi_EN-US0111381625_UHD.jpg)|

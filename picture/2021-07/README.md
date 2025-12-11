@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2021-07)
-![](https://cn.bing.com/th?id=OHR.OtterCliff_EN-US6679872579_UHD.jpg&w=1000)Today: [Otter Cliffs, Acadia National Park, Maine (© dbimages/Alamy)](https://cn.bing.com/th?id=OHR.OtterCliff_EN-US6679872579_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.OtterCliff_EN-US6679872579_UHD.jpg&w=1000)
+
+**Featured Image:** [Otter Cliffs, Acadia National Park, Maine (© dbimages/Alamy)](https://cn.bing.com/th?id=OHR.OtterCliff_EN-US6679872579_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.OtterCliff_EN-US6679872579_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-07-31 [download 4k](https://cn.bing.com/th?id=OHR.OtterCliff_EN-US6679872579_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.PantheraTigris_EN-US9729163497_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-07-30 [download 4k](https://cn.bing.com/th?id=OHR.PantheraTigris_EN-US9729163497_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.SeaGoldie_EN-US9625167980_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-07-29 [download 4k](https://cn.bing.com/th?id=OHR.SeaGoldie_EN-US9625167980_UHD.jpg)|

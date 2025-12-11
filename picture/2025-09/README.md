@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2025-09)
-![](https://cn.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg&w=1000)Today: [The Rainbow Houses of Houten, Netherlands (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg&w=1000)
+
+**Featured Image:** [The Rainbow Houses of Houten, Netherlands (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-09-30 [download 4k](https://cn.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-09-29 [download 4k](https://cn.bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-09-28 [download 4k](https://cn.bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg)|

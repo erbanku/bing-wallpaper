@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2022-12)
-![](https://cn.bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg&w=1000)Today: [Rock formations in the White Desert, Egypt (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg&w=1000)
+
+**Featured Image:** [Rock formations in the White Desert, Egypt (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-12-31 [download 4k](https://cn.bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.ButterflyEffect_EN-US4238684091_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-12-30 [download 4k](https://cn.bing.com/th?id=OHR.ButterflyEffect_EN-US4238684091_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.ChiesaBianca_EN-US6649530996_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-12-29 [download 4k](https://cn.bing.com/th?id=OHR.ChiesaBianca_EN-US6649530996_UHD.jpg)|

@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2025-04)
-![](https://cn.bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg&w=1000)Today: [Formal garden at Château de Villandry, Loire Valley, France (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg&w=1000)
+
+**Featured Image:** [Formal garden at Château de Villandry, Loire Valley, France (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-04-30 [download 4k](https://cn.bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.OrangeImpala_EN-US3494359572_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-04-29 [download 4k](https://cn.bing.com/th?id=OHR.OrangeImpala_EN-US3494359572_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.KilaueaCaldera_EN-US7764962675_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-04-28 [download 4k](https://cn.bing.com/th?id=OHR.KilaueaCaldera_EN-US7764962675_UHD.jpg)|

@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2025-07)
-![](https://cn.bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_UHD.jpg&w=1000)Today: ['Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](https://cn.bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_UHD.jpg&w=1000)
+
+**Featured Image:** ['Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](https://cn.bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-07-31 [download 4k](https://cn.bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.TigerDay_EN-US5038876410_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-07-30 [download 4k](https://cn.bing.com/th?id=OHR.TigerDay_EN-US5038876410_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.MongoliaYurts_EN-US1803457525_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-07-29 [download 4k](https://cn.bing.com/th?id=OHR.MongoliaYurts_EN-US1803457525_UHD.jpg)|

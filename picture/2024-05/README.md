@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2024-05)
-![](https://cn.bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg&w=1000)Today: [A stand of slash pines and sawgrass prairie, Everglades National Park, Florida (© Jonathan Gewirtz/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg&w=1000)
+
+**Featured Image:** [A stand of slash pines and sawgrass prairie, Everglades National Park, Florida (© Jonathan Gewirtz/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-05-31 [download 4k](https://cn.bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.MullOtter_EN-US5451978021_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-05-30 [download 4k](https://cn.bing.com/th?id=OHR.MullOtter_EN-US5451978021_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.MeteoraMonastery_EN-US5286293282_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-05-29 [download 4k](https://cn.bing.com/th?id=OHR.MeteoraMonastery_EN-US5286293282_UHD.jpg)|

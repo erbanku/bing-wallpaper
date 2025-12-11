@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2024-04)
-![](https://cn.bing.com/th?id=OHR.TulouFujian_EN-US6009679228_UHD.jpg&w=1000)Today: [Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)](https://cn.bing.com/th?id=OHR.TulouFujian_EN-US6009679228_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.TulouFujian_EN-US6009679228_UHD.jpg&w=1000)
+
+**Featured Image:** [Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)](https://cn.bing.com/th?id=OHR.TulouFujian_EN-US6009679228_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.TulouFujian_EN-US6009679228_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-04-30 [download 4k](https://cn.bing.com/th?id=OHR.TulouFujian_EN-US6009679228_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.GuadalupeTexas_EN-US5906260854_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-04-29 [download 4k](https://cn.bing.com/th?id=OHR.GuadalupeTexas_EN-US5906260854_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.LeucisticHummingbird_EN-US5796079642_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-04-28 [download 4k](https://cn.bing.com/th?id=OHR.LeucisticHummingbird_EN-US5796079642_UHD.jpg)|

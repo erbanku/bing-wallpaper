@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2023-05)
-![](https://cn.bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg&w=1000)Today: [Playa del Amor in the Marietas Islands, off the coast of Puerto Vallarta, Mexico (© ferrantraite/Getty Images)](https://cn.bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg&w=1000)
+
+**Featured Image:** [Playa del Amor in the Marietas Islands, off the coast of Puerto Vallarta, Mexico (© ferrantraite/Getty Images)](https://cn.bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-05-31 [download 4k](https://cn.bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.LanternFloating_EN-US4433076187_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-05-30 [download 4k](https://cn.bing.com/th?id=OHR.LanternFloating_EN-US4433076187_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.TegallalangTerrace_EN-US4296943902_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-05-29 [download 4k](https://cn.bing.com/th?id=OHR.TegallalangTerrace_EN-US4296943902_UHD.jpg)|

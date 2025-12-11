@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2023-12)
-![](https://cn.bing.com/th?id=OHR.TadamiWinter_EN-US6973402256_UHD.jpg&w=1000)Today: [Daiichi Tadami River Bridge, Fukushima prefecture, Japan (© DoctorEgg/Getty Images)](https://cn.bing.com/th?id=OHR.TadamiWinter_EN-US6973402256_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.TadamiWinter_EN-US6973402256_UHD.jpg&w=1000)
+
+**Featured Image:** [Daiichi Tadami River Bridge, Fukushima prefecture, Japan (© DoctorEgg/Getty Images)](https://cn.bing.com/th?id=OHR.TadamiWinter_EN-US6973402256_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.TadamiWinter_EN-US6973402256_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-12-31 [download 4k](https://cn.bing.com/th?id=OHR.TadamiWinter_EN-US6973402256_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.BlueAmsterdam_EN-US6868017848_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-12-30 [download 4k](https://cn.bing.com/th?id=OHR.BlueAmsterdam_EN-US6868017848_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.GreenlandHumpback_EN-US0330682837_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-12-29 [download 4k](https://cn.bing.com/th?id=OHR.GreenlandHumpback_EN-US0330682837_UHD.jpg)|

@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2022-11)
-![](https://cn.bing.com/th?id=OHR.HeronGiving_EN-US9774285216_UHD.jpg&w=1000)Today: [Great blue herons building a nest in Wakodahatchee Wetlands, Delray Beach, Florida (© Imagebroker/Alamy)](https://cn.bing.com/th?id=OHR.HeronGiving_EN-US9774285216_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.HeronGiving_EN-US9774285216_UHD.jpg&w=1000)
+
+**Featured Image:** [Great blue herons building a nest in Wakodahatchee Wetlands, Delray Beach, Florida (© Imagebroker/Alamy)](https://cn.bing.com/th?id=OHR.HeronGiving_EN-US9774285216_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.HeronGiving_EN-US9774285216_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-11-30 [download 4k](https://cn.bing.com/th?id=OHR.HeronGiving_EN-US9774285216_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.RedPlanetDay_EN-US9693219784_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-11-29 [download 4k](https://cn.bing.com/th?id=OHR.RedPlanetDay_EN-US9693219784_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.Cecropia_EN-US9602789937_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-11-28 [download 4k](https://cn.bing.com/th?id=OHR.Cecropia_EN-US9602789937_UHD.jpg)|

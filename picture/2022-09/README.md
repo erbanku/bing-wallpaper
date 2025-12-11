@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2022-09)
-![](https://cn.bing.com/th?id=OHR.InfiniD_EN-US7855471603_UHD.jpg&w=1000)Today: [Infini-D, modeled during the World of WearableArt Awards in 2019 in Wellington, New Zealand (© Hagen Hopkins/Getty Images for World of WearableArt)](https://cn.bing.com/th?id=OHR.InfiniD_EN-US7855471603_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.InfiniD_EN-US7855471603_UHD.jpg&w=1000)
+
+**Featured Image:** [Infini-D, modeled during the World of WearableArt Awards in 2019 in Wellington, New Zealand (© Hagen Hopkins/Getty Images for World of WearableArt)](https://cn.bing.com/th?id=OHR.InfiniD_EN-US7855471603_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.InfiniD_EN-US7855471603_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-09-30 [download 4k](https://cn.bing.com/th?id=OHR.InfiniD_EN-US7855471603_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.FosterCoveredBridge_EN-US7763700078_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-09-29 [download 4k](https://cn.bing.com/th?id=OHR.FosterCoveredBridge_EN-US7763700078_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.YellowstoneUGB_EN-US7573964019_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-09-28 [download 4k](https://cn.bing.com/th?id=OHR.YellowstoneUGB_EN-US7573964019_UHD.jpg)|
