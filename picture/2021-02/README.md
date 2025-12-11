@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2021-02)
-![](https://cn.bing.com/th?id=OHR.TwinsDenning_EN-US9910127756_UHD.jpg&w=1000)Today: [Twin polar bear cubs asleep in a snow den in Wapusk National Park, Manitoba, Canada (© AF archive/Alamy)](https://cn.bing.com/th?id=OHR.TwinsDenning_EN-US9910127756_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.TwinsDenning_EN-US9910127756_UHD.jpg&w=1000)
+
+**Featured Image:** [Twin polar bear cubs asleep in a snow den in Wapusk National Park, Manitoba, Canada (© AF archive/Alamy)](https://cn.bing.com/th?id=OHR.TwinsDenning_EN-US9910127756_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.TwinsDenning_EN-US9910127756_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-02-28 [download 4k](https://cn.bing.com/th?id=OHR.TwinsDenning_EN-US9910127756_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.JinliStreet_EN-US9813774321_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-02-27 [download 4k](https://cn.bing.com/th?id=OHR.JinliStreet_EN-US9813774321_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.Trevi_EN-US7298856463_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-02-26 [download 4k](https://cn.bing.com/th?id=OHR.Trevi_EN-US7298856463_UHD.jpg)|

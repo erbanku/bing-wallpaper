@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2022-05)
-![](https://cn.bing.com/th?id=OHR.WW2Lincoln_EN-US6306243521_UHD.jpg&w=1000)Today: [Rainbow Pool and the field of stars in the World War II Memorial with the Lincoln Memorial in the background, Washington, DC (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.WW2Lincoln_EN-US6306243521_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.WW2Lincoln_EN-US6306243521_UHD.jpg&w=1000)
+
+**Featured Image:** [Rainbow Pool and the field of stars in the World War II Memorial with the Lincoln Memorial in the background, Washington, DC (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.WW2Lincoln_EN-US6306243521_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.WW2Lincoln_EN-US6306243521_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-05-31 [download 4k](https://cn.bing.com/th?id=OHR.WW2Lincoln_EN-US6306243521_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.HyaliteCreek_EN-US9700334811_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-05-30 [download 4k](https://cn.bing.com/th?id=OHR.HyaliteCreek_EN-US9700334811_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.PurnululuNP_EN-US9646771554_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-05-29 [download 4k](https://cn.bing.com/th?id=OHR.PurnululuNP_EN-US9646771554_UHD.jpg)|

@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2022-07)
-![](https://cn.bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg&w=1000)Today: [Rainforest hike near Milford Sound/Piopiotahi in New Zealand (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg&w=1000)
+
+**Featured Image:** [Rainforest hike near Milford Sound/Piopiotahi in New Zealand (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-07-31 [download 4k](https://cn.bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.FourTigresses_EN-US0466229333_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-07-30 [download 4k](https://cn.bing.com/th?id=OHR.FourTigresses_EN-US0466229333_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.LongsPeak_EN-US4189093342_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-07-29 [download 4k](https://cn.bing.com/th?id=OHR.LongsPeak_EN-US4189093342_UHD.jpg)|

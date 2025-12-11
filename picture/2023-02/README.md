@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2023-02)
-![](https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg&w=1000)Today: [Polar bears asleep in Canada (© David Pike/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg&w=1000)
+
+**Featured Image:** [Polar bears asleep in Canada (© David Pike/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-28 [download 4k](https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-27 [download 4k](https://cn.bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.BryceAnniv_EN-US9498074213_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-26 [download 4k](https://cn.bing.com/th?id=OHR.BryceAnniv_EN-US9498074213_UHD.jpg)|

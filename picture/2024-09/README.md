@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2024-09)
-![](https://cn.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg&w=1000)Today: [West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)](https://cn.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg&w=1000)
+
+**Featured Image:** [West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)](https://cn.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-09-30 [download 4k](https://cn.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-09-29 [download 4k](https://cn.bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-09-28 [download 4k](https://cn.bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg)|

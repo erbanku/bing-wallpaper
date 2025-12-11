@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2025-11)
-![](https://cn.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg&w=1000)Today: [Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)](https://cn.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg&w=1000)
+
+**Featured Image:** [Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)](https://cn.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-11-30 [download 4k](https://cn.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-11-29 [download 4k](https://cn.bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-11-28 [download 4k](https://cn.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg)|

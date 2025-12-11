@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2023-10)
-![](https://cn.bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg&w=1000)Today: [Common raven sitting on a branch (© WildMedia/Shutterstock)](https://cn.bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg&w=1000)
+
+**Featured Image:** [Common raven sitting on a branch (© WildMedia/Shutterstock)](https://cn.bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-10-31 [download 4k](https://cn.bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.SavannahSculpture_EN-US0375520303_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-10-30 [download 4k](https://cn.bing.com/th?id=OHR.SavannahSculpture_EN-US0375520303_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.FiveWinds_EN-US0292788215_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-10-29 [download 4k](https://cn.bing.com/th?id=OHR.FiveWinds_EN-US0292788215_UHD.jpg)|

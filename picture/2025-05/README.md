@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2025-05)
-![](https://cn.bing.com/th?id=OHR.LittlePigeonRiver_EN-US1765916005_UHD.jpg&w=1000)Today: [Little Pigeon River, Great Smoky Mountains National Park, Tennessee (© GreenStock/Getty Images)](https://cn.bing.com/th?id=OHR.LittlePigeonRiver_EN-US1765916005_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.LittlePigeonRiver_EN-US1765916005_UHD.jpg&w=1000)
+
+**Featured Image:** [Little Pigeon River, Great Smoky Mountains National Park, Tennessee (© GreenStock/Getty Images)](https://cn.bing.com/th?id=OHR.LittlePigeonRiver_EN-US1765916005_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.LittlePigeonRiver_EN-US1765916005_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-05-31 [download 4k](https://cn.bing.com/th?id=OHR.LittlePigeonRiver_EN-US1765916005_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.MiravetSpain_EN-US4967052818_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-05-30 [download 4k](https://cn.bing.com/th?id=OHR.MiravetSpain_EN-US4967052818_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.KelpOtter_EN-US4867923884_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-05-29 [download 4k](https://cn.bing.com/th?id=OHR.KelpOtter_EN-US4867923884_UHD.jpg)|

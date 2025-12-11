@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2024-08)
-![](https://cn.bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_UHD.jpg&w=1000)Today: [A whale shark in Cenderawasih Bay, West Papua, Indonesia (© Andy Lerner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_UHD.jpg&w=1000)
+
+**Featured Image:** [A whale shark in Cenderawasih Bay, West Papua, Indonesia (© Andy Lerner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-08-31 [download 4k](https://cn.bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.CastellfollitSpain_EN-US8880313790_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-08-30 [download 4k](https://cn.bing.com/th?id=OHR.CastellfollitSpain_EN-US8880313790_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.ParalympicsParis_EN-US0355511969_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-08-29 [download 4k](https://cn.bing.com/th?id=OHR.ParalympicsParis_EN-US0355511969_UHD.jpg)|

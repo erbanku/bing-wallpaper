@@ -117,15 +117,27 @@ public class BingFileUtils {
         if (!Files.exists(README_PATH)) {
             Files.createFile(README_PATH);
         }
-        List<Images> imagesList = imgList.subList(0, 30);
+        // Filter out null/empty images
+        List<Images> validImages = imgList.stream()
+            .filter(img -> img != null && img.getUrl() != null && img.getDate() != null)
+            .collect(Collectors.toList());
+        
+        if (validImages.isEmpty()) {
+            return; // Nothing to write
+        }
+        
+        List<Images> imagesList = validImages.subList(0, Math.min(30, validImages.size()));
         writeFile(README_PATH, imagesList, null);
 
         try (BufferedWriter writer = Files.newBufferedWriter(README_PATH, StandardCharsets.UTF_8, StandardOpenOption.APPEND)) {
             writer.newLine();
-            // 归档
-            writer.write("### 历史归档：");
+            writer.newLine();
+            // Archive
+            writer.write("### Archive");
+            writer.newLine();
             writer.newLine();
             List<String> dateList = imgList.stream()
+                .filter(images -> images.getDate() != null)
                 .map(Images::getDate)
                 .map(date -> date.substring(0, 7))
                 .distinct()
@@ -196,9 +208,31 @@ public class BingFileUtils {
             title = "## Bing Wallpaper (" + name + ")";
         }
         try (BufferedWriter writer = Files.newBufferedWriter(path, StandardCharsets.UTF_8)) {
-            writer.write(title);
-            writer.newLine();
+            // Only add project description for main README (when name is null)
+            if (name == null) {
+                writer.write("# Bing Wallpaper");
+                writer.newLine();
+                writer.newLine();
+                writer.write("Daily Bing wallpaper collection. Automatically updated with beautiful images from around the world.");
+                writer.newLine();
+                writer.newLine();
+                writer.write("---");
+                writer.newLine();
+                writer.newLine();
+            } else {
+                writer.write(title);
+                writer.newLine();
+                writer.newLine();
+            }
+            
             writer.write(imagesList.get(0).toLarge());
+            writer.newLine();
+            writer.newLine();
+            writer.write("---");
+            writer.newLine();
+            writer.newLine();
+            writer.write("### Recent Wallpapers");
+            writer.newLine();
             writer.newLine();
             writer.write("|      |      |      |");
             writer.newLine();

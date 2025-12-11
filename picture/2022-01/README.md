@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2022-01)
-![](https://cn.bing.com/th?id=OHR.WinterHalo_EN-US1847885731_UHD.jpg&w=1000)Today: [Halo around the sun in the Ore Mountains, Saxony, Germany (© Martin Ruegner/Getty Images)](https://cn.bing.com/th?id=OHR.WinterHalo_EN-US1847885731_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.WinterHalo_EN-US1847885731_UHD.jpg&w=1000)
+
+**Featured Image:** [Halo around the sun in the Ore Mountains, Saxony, Germany (© Martin Ruegner/Getty Images)](https://cn.bing.com/th?id=OHR.WinterHalo_EN-US1847885731_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.WinterHalo_EN-US1847885731_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-01-31 [download 4k](https://cn.bing.com/th?id=OHR.WinterHalo_EN-US1847885731_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.BrainCoral_EN-US1756508308_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-01-30 [download 4k](https://cn.bing.com/th?id=OHR.BrainCoral_EN-US1756508308_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.WinteringFowl_EN-US1541559315_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-01-29 [download 4k](https://cn.bing.com/th?id=OHR.WinteringFowl_EN-US1541559315_UHD.jpg)|

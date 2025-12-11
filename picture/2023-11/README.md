@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2023-11)
-![](https://cn.bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg&w=1000)Today: [Rockefeller Center Christmas tree, New York City (© Jonathan Orenstein/Getty Images)](https://cn.bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg&w=1000)
+
+**Featured Image:** [Rockefeller Center Christmas tree, New York City (© Jonathan Orenstein/Getty Images)](https://cn.bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-11-30 [download 4k](https://cn.bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.HumanKindness_EN-US4254216907_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-11-29 [download 4k](https://cn.bing.com/th?id=OHR.HumanKindness_EN-US4254216907_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.RioNegro_EN-US4106999854_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-11-28 [download 4k](https://cn.bing.com/th?id=OHR.RioNegro_EN-US4106999854_UHD.jpg)|

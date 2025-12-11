@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2021-12)
-![](https://cn.bing.com/th?id=OHR.WesterheverLight_EN-US2289133174_UHD.jpg&w=1000)Today: [Westerheversand Lighthouse in Westerhever, Germany (© Sandra Bartocha/Minden Pictures)](https://cn.bing.com/th?id=OHR.WesterheverLight_EN-US2289133174_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.WesterheverLight_EN-US2289133174_UHD.jpg&w=1000)
+
+**Featured Image:** [Westerheversand Lighthouse in Westerhever, Germany (© Sandra Bartocha/Minden Pictures)](https://cn.bing.com/th?id=OHR.WesterheverLight_EN-US2289133174_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.WesterheverLight_EN-US2289133174_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-12-31 [download 4k](https://cn.bing.com/th?id=OHR.WesterheverLight_EN-US2289133174_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.OreamnosAmericanus_EN-US2195826157_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-12-30 [download 4k](https://cn.bing.com/th?id=OHR.OreamnosAmericanus_EN-US2195826157_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.KjellHenriksen_EN-US2132845054_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-12-29 [download 4k](https://cn.bing.com/th?id=OHR.KjellHenriksen_EN-US2132845054_UHD.jpg)|

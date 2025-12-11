@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2022-10)
-![](https://cn.bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg&w=1000)Today: [Polar bear at the edge of Hudson Bay, Manitoba, Canada (© Sean Crane/Minden Pictures)](https://cn.bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg&w=1000)
+
+**Featured Image:** [Polar bear at the edge of Hudson Bay, Manitoba, Canada (© Sean Crane/Minden Pictures)](https://cn.bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-31 [download 4k](https://cn.bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.SeaAngel_EN-US5531672696_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-30 [download 4k](https://cn.bing.com/th?id=OHR.SeaAngel_EN-US5531672696_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.FrankensteinFriday_EN-US3119113489_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-29 [download 4k](https://cn.bing.com/th?id=OHR.FrankensteinFriday_EN-US3119113489_UHD.jpg)|

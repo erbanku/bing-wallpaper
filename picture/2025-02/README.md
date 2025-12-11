@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2025-02)
-![](https://cn.bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg&w=1000)Today: [Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg&w=1000)
+
+**Featured Image:** [Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-02-28 [download 4k](https://cn.bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-02-27 [download 4k](https://cn.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-02-26 [download 4k](https://cn.bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_UHD.jpg)|

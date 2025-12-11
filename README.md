@@ -1,5 +1,17 @@
-## Bing Wallpaper
-![](https://cn.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg&w=1000)Today: [Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)](https://cn.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg)
+# Bing Wallpaper
+
+Daily Bing wallpaper collection. Automatically updated with beautiful images from around the world.
+
+---
+
+![Featured Image](https://cn.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg&w=1000)
+
+**Featured Image:** [Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)](https://cn.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-12-11 [download 4k](https://cn.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-12-10 [download 4k](https://cn.bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-12-09 [download 4k](https://cn.bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg)|
@@ -13,7 +25,9 @@
 |![](https://cn.bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-11-16 [download 4k](https://cn.bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-11-15 [download 4k](https://cn.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-11-14 [download 4k](https://cn.bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg)|
 |![](https://cn.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-11-13 [download 4k](https://cn.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-11-12 [download 4k](https://cn.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-11-11 [download 4k](https://cn.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg)|
 
-### 历史归档：
+
+### Archive
+
 [2025-12](/picture/2025-12/) | [2025-11](/picture/2025-11/) | [2025-10](/picture/2025-10/) | [2025-09](/picture/2025-09/) | [2025-08](/picture/2025-08/) | [2025-07](/picture/2025-07/) | [2025-06](/picture/2025-06/) | [2025-05](/picture/2025-05/) | 
 [2025-04](/picture/2025-04/) | [2025-03](/picture/2025-03/) | [2025-02](/picture/2025-02/) | [2025-01](/picture/2025-01/) | [2024-12](/picture/2024-12/) | [2024-11](/picture/2024-11/) | [2024-10](/picture/2024-10/) | [2024-09](/picture/2024-09/) | 
 [2024-08](/picture/2024-08/) | [2024-07](/picture/2024-07/) | [2024-06](/picture/2024-06/) | [2024-05](/picture/2024-05/) | [2024-04](/picture/2024-04/) | [2024-03](/picture/2024-03/) | [2024-02](/picture/2024-02/) | [2024-01](/picture/2024-01/) | 

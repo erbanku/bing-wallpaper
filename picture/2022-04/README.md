@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2022-04)
-![](https://cn.bing.com/th?id=OHR.RedwoodSprout_EN-US2459675162_UHD.jpg&w=1000)Today: [A young coast redwood sprouting out of an old log in Prairie Creek Redwoods State Park, California (© Hutch Axilrod/Getty Images)](https://cn.bing.com/th?id=OHR.RedwoodSprout_EN-US2459675162_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.RedwoodSprout_EN-US2459675162_UHD.jpg&w=1000)
+
+**Featured Image:** [A young coast redwood sprouting out of an old log in Prairie Creek Redwoods State Park, California (© Hutch Axilrod/Getty Images)](https://cn.bing.com/th?id=OHR.RedwoodSprout_EN-US2459675162_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.RedwoodSprout_EN-US2459675162_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-04-30 [download 4k](https://cn.bing.com/th?id=OHR.RedwoodSprout_EN-US2459675162_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.FoxSkills_EN-US2404818455_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-04-29 [download 4k](https://cn.bing.com/th?id=OHR.FoxSkills_EN-US2404818455_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.SvalbardSun_EN-US2348209213_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-04-28 [download 4k](https://cn.bing.com/th?id=OHR.SvalbardSun_EN-US2348209213_UHD.jpg)|

@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2023-04)
-![](https://cn.bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg&w=1000)Today: [Milky Way over Joshua Tree National Park, California (© Schroptschop/Getty Images)](https://cn.bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg&w=1000)
+
+**Featured Image:** [Milky Way over Joshua Tree National Park, California (© Schroptschop/Getty Images)](https://cn.bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-04-30 [download 4k](https://cn.bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.MariposaGrove_EN-US0790407793_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-04-29 [download 4k](https://cn.bing.com/th?id=OHR.MariposaGrove_EN-US0790407793_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.SouthPadre_EN-US8601972598_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-04-28 [download 4k](https://cn.bing.com/th?id=OHR.SouthPadre_EN-US8601972598_UHD.jpg)|

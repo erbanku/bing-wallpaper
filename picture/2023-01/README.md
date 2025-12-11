@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2023-01)
-![](https://cn.bing.com/th?id=OHR.IceSailingBalaton_EN-US2751943390_UHD.jpg&w=1000)Today: [Ice and Snow Sailing European Championships on Lake Balaton in Hungary (© mauritius images GmbH/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.IceSailingBalaton_EN-US2751943390_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.IceSailingBalaton_EN-US2751943390_UHD.jpg&w=1000)
+
+**Featured Image:** [Ice and Snow Sailing European Championships on Lake Balaton in Hungary (© mauritius images GmbH/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.IceSailingBalaton_EN-US2751943390_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.IceSailingBalaton_EN-US2751943390_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-01-31 [download 4k](https://cn.bing.com/th?id=OHR.IceSailingBalaton_EN-US2751943390_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.BlackbirdDay_EN-US2693700478_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-01-30 [download 4k](https://cn.bing.com/th?id=OHR.BlackbirdDay_EN-US2693700478_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.BlueBahamas_EN-US2634514272_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-01-29 [download 4k](https://cn.bing.com/th?id=OHR.BlueBahamas_EN-US2634514272_UHD.jpg)|

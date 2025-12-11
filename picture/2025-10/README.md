@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2025-10)
-![](https://cn.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg&w=1000)Today: [Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)](https://cn.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg&w=1000)
+
+**Featured Image:** [Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)](https://cn.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-10-31 [download 4k](https://cn.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-10-30 [download 4k](https://cn.bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.TepliceRocks_EN-US4098225022_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-10-29 [download 4k](https://cn.bing.com/th?id=OHR.TepliceRocks_EN-US4098225022_UHD.jpg)|

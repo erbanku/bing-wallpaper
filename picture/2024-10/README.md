@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2024-10)
-![](https://cn.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg&w=1000)Today: [View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy)](https://cn.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg&w=1000)
+
+**Featured Image:** [View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy)](https://cn.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-10-31 [download 4k](https://cn.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.GreatOwl_EN-US3778222109_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-10-30 [download 4k](https://cn.bing.com/th?id=OHR.GreatOwl_EN-US3778222109_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.PumpkinMist_EN-US3686565863_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-10-29 [download 4k](https://cn.bing.com/th?id=OHR.PumpkinMist_EN-US3686565863_UHD.jpg)|

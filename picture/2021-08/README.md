@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2021-08)
-![](https://cn.bing.com/th?id=OHR.MayonVolcano_EN-US2517637729_UHD.jpg&w=1000)Today: [Crater glow from Mount Mayon in the Philippines (© Per-Andre Hoffmann/Cavan)](https://cn.bing.com/th?id=OHR.MayonVolcano_EN-US2517637729_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.MayonVolcano_EN-US2517637729_UHD.jpg&w=1000)
+
+**Featured Image:** [Crater glow from Mount Mayon in the Philippines (© Per-Andre Hoffmann/Cavan)](https://cn.bing.com/th?id=OHR.MayonVolcano_EN-US2517637729_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.MayonVolcano_EN-US2517637729_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-08-31 [download 4k](https://cn.bing.com/th?id=OHR.MayonVolcano_EN-US2517637729_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.Ruskeala_EN-US2421855092_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-08-30 [download 4k](https://cn.bing.com/th?id=OHR.Ruskeala_EN-US2421855092_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.Mpumalanga_EN-US2361653913_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2021-08-29 [download 4k](https://cn.bing.com/th?id=OHR.Mpumalanga_EN-US2361653913_UHD.jpg)|

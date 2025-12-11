@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2025-08)
-![](https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_UHD.jpg&w=1000)Today: [Whale shark off the coast of Alifu Dhaalu Atoll, Maldives (© Bachir Moukarzel/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_UHD.jpg&w=1000)
+
+**Featured Image:** [Whale shark off the coast of Alifu Dhaalu Atoll, Maldives (© Bachir Moukarzel/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-08-31 [download 4k](https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.PlazaMayor_EN-US3692727880_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-08-30 [download 4k](https://cn.bing.com/th?id=OHR.PlazaMayor_EN-US3692727880_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.WhiteEgret_EN-US3605994040_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-08-29 [download 4k](https://cn.bing.com/th?id=OHR.WhiteEgret_EN-US3605994040_UHD.jpg)|

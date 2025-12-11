@@ -1,5 +1,13 @@
 ## Bing Wallpaper (2024-06)
-![](https://cn.bing.com/th?id=OHR.TourCorsica_EN-US3437831281_UHD.jpg&w=1000)Today: [Cyclists in the 2013 Tour de France, Corsica, France (© Pascal Pochard-Casabianca/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.TourCorsica_EN-US3437831281_UHD.jpg)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.TourCorsica_EN-US3437831281_UHD.jpg&w=1000)
+
+**Featured Image:** [Cyclists in the 2013 Tour de France, Corsica, France (© Pascal Pochard-Casabianca/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.TourCorsica_EN-US3437831281_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.TourCorsica_EN-US3437831281_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-06-30 [download 4k](https://cn.bing.com/th?id=OHR.TourCorsica_EN-US3437831281_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.ChristopherPark_EN-US9362447266_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-06-29 [download 4k](https://cn.bing.com/th?id=OHR.ChristopherPark_EN-US9362447266_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.FlorenceDuomo_EN-US1448955167_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-06-28 [download 4k](https://cn.bing.com/th?id=OHR.FlorenceDuomo_EN-US1448955167_UHD.jpg)|
