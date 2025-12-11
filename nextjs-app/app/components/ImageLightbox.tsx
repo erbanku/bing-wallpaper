@@ -177,7 +177,7 @@ export default function ImageLightbox({ images, initialIndex, onClose }: ImageLi
       >
         {/* Image container */}
         <div className="relative w-full flex-1 flex items-center justify-center mb-6">
-          <div className="relative w-full h-full max-h-[80vh]">
+          <div className="relative w-full h-full max-h-[95vh]">
             <Image
               src={currentImage.url}
               alt={currentImage.copyright}
