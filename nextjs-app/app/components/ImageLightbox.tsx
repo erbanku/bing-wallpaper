@@ -45,8 +45,9 @@ export default function ImageLightbox({ images, initialIndex, onClose }: ImageLi
       const pathname = url.pathname;
       const extension = pathname.substring(pathname.lastIndexOf('.')) || '.jpg';
       
-      // Create filename with date
-      const filename = `${currentImage.date}${extension}`;
+      // Create filename with date in format: Bing-YYYYMMDD.jpg
+      const dateWithoutDashes = currentImage.date.replace(/-/g, '');
+      const filename = `Bing-${dateWithoutDashes}${extension}`;
       
       // Fetch the image
       const response = await fetch(currentImage.url);
@@ -189,7 +190,7 @@ export default function ImageLightbox({ images, initialIndex, onClose }: ImageLi
         </div>
 
         {/* Image information */}
-        <div className="w-full max-w-3xl p-6 text-white text-center">
+        <div className="w-full p-6 text-white text-center">
           <p className="text-lg font-semibold mb-2 drop-shadow-lg">{currentImage.date}</p>
           <p className="text-sm mb-4 opacity-90 drop-shadow-lg">{currentImage.copyright}</p>
           
