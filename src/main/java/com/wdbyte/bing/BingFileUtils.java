@@ -93,16 +93,31 @@ public class BingFileUtils {
         List<Images> imgList = new ArrayList<>();
         for (int i = 3; i < allLines.size(); i++) {
             String content = allLines.get(i);
-            Arrays.stream(content.split("\\|"))
-                .filter(s -> !s.isEmpty())
-                .map(s -> {
-                    int dateStartIndex = s.indexOf("[", 3) + 1;
-                    int urlStartIndex = s.indexOf("(", 4) + 1;
-                    String date = s.substring(dateStartIndex, dateStartIndex + 10);
-                    String url = s.substring(urlStartIndex, s.length() - 1);
-                    return new Images(null, date, url);
-                })
-                .forEach(imgList::add);
+            if (content.isEmpty()) {
+                continue;
+            }
+            String[] parts = content.split("\\|");
+            for (String s : parts) {
+                if (s.isEmpty()) {
+                    continue;
+                }
+                int dateStartIndex = s.indexOf("[", 3);
+                if (dateStartIndex == -1) {
+                    continue;
+                }
+                dateStartIndex++;
+                int urlStartIndex = s.indexOf("(", 4);
+                if (urlStartIndex == -1 || urlStartIndex + 1 >= s.length()) {
+                    continue;
+                }
+                urlStartIndex++;
+                if (dateStartIndex + 10 > s.length()) {
+                    continue;
+                }
+                String date = s.substring(dateStartIndex, dateStartIndex + 10);
+                String url = s.substring(urlStartIndex, s.length() - 1);
+                imgList.add(new Images(null, date, url));
+            }
         }
         return imgList;
     }
@@ -117,10 +132,14 @@ public class BingFileUtils {
         if (!Files.exists(README_PATH)) {
             Files.createFile(README_PATH);
         }
-        // Filter out null/empty images
-        List<Images> validImages = imgList.stream()
-            .filter(img -> img != null && img.getUrl() != null && img.getDate() != null)
-            .collect(Collectors.toList());
+        
+        // Pre-filter valid images once
+        List<Images> validImages = new ArrayList<>();
+        for (Images img : imgList) {
+            if (img != null && img.getUrl() != null && img.getDate() != null) {
+                validImages.add(img);
+            }
+        }
         
         if (validImages.isEmpty()) {
             return; // Nothing to write
@@ -136,12 +155,18 @@ public class BingFileUtils {
             writer.write("### Archive");
             writer.newLine();
             writer.newLine();
-            List<String> dateList = imgList.stream()
-                .filter(images -> images.getDate() != null)
-                .map(Images::getDate)
-                .map(date -> date.substring(0, 7))
-                .distinct()
-                .collect(Collectors.toList());
+            
+            // Collect unique months efficiently using LinkedHashSet to preserve order
+            List<String> dateList = new ArrayList<>();
+            java.util.Set<String> seenMonths = new java.util.LinkedHashSet<>();
+            for (Images images : imgList) {
+                if (images.getDate() != null) {
+                    String month = images.getDate().substring(0, 7);
+                    seenMonths.add(month);
+                }
+            }
+            dateList.addAll(seenMonths);
+            
             int i = 0;
             for (String date : dateList) {
                 String link = String.format("[%s](/picture/%s/) | ", date, date);
