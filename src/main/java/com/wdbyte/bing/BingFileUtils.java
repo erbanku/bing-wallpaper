@@ -10,8 +10,10 @@ import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedHashMap;
+import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 import java.util.stream.Collectors;
 
 /**
@@ -107,11 +109,12 @@ public class BingFileUtils {
                 }
                 dateStartIndex++;
                 int urlStartIndex = s.indexOf("(", 4);
-                if (urlStartIndex == -1 || urlStartIndex + 1 >= s.length()) {
+                if (urlStartIndex == -1) {
                     continue;
                 }
                 urlStartIndex++;
-                if (dateStartIndex + 10 > s.length()) {
+                // Check bounds for both date and url extraction
+                if (dateStartIndex + 10 > s.length() || urlStartIndex + 1 > s.length()) {
                     continue;
                 }
                 String date = s.substring(dateStartIndex, dateStartIndex + 10);
@@ -158,7 +161,7 @@ public class BingFileUtils {
             
             // Collect unique months efficiently using LinkedHashSet to preserve order
             List<String> dateList = new ArrayList<>();
-            java.util.Set<String> seenMonths = new java.util.LinkedHashSet<>();
+            Set<String> seenMonths = new LinkedHashSet<>();
             for (Images images : imgList) {
                 if (images.getDate() != null) {
                     String month = images.getDate().substring(0, 7);
