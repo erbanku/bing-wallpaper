@@ -188,13 +188,14 @@ public class BingFileUtils {
      */
     public static void writeMonthInfo(List<Images> imgList) throws IOException {
         Map<String, List<Images>> monthMap = convertImgListToMonthMap(imgList);
-        for (String key : monthMap.keySet()) {
+        for (Map.Entry<String, List<Images>> entry : monthMap.entrySet()) {
+            String key = entry.getKey();
             Path path = MONTH_PATH.resolve(key);
             if (!Files.exists(path)) {
                 Files.createDirectories(path);
             }
             path = path.resolve("README.md");
-            writeFile(path, monthMap.get(key), key);
+            writeFile(path, entry.getValue(), key);
         }
     }
 
