@@ -156,8 +156,13 @@ public class BingFileUtils {
             Set<String> seenMonths = new LinkedHashSet<>();
             for (Images images : imgList) {
                 if (images.getDate() != null) {
-                    String month = extractMonth(images.getDate());
-                    seenMonths.add(month);
+                    try {
+                        String month = extractMonth(images.getDate());
+                        seenMonths.add(month);
+                    } catch (IllegalArgumentException e) {
+                        // Skip images with malformed date strings
+                        System.err.println("Skipping image with invalid date format: " + images.getDate());
+                    }
                 }
             }
             dateList.addAll(seenMonths);
@@ -206,8 +211,13 @@ public class BingFileUtils {
             if (images.getUrl() == null || images.getDate() == null){
                 continue;
             }
-            String key = extractMonth(images.getDate());
-            monthMap.computeIfAbsent(key, k -> new ArrayList<>()).add(images);
+            try {
+                String key = extractMonth(images.getDate());
+                monthMap.computeIfAbsent(key, k -> new ArrayList<>()).add(images);
+            } catch (IllegalArgumentException e) {
+                // Skip images with malformed date strings
+                System.err.println("Skipping image with invalid date format: " + images.getDate());
+            }
         }
         return monthMap;
     }
@@ -294,7 +304,7 @@ public class BingFileUtils {
      */
     private static String extractMonth(String date) {
         if (date == null || date.length() < 7) {
-            throw new IllegalArgumentException("Date string must be at least 7 characters (YYYY-MM format)");
+            throw new IllegalArgumentException("Date string must have length >= 7 for YYYY-MM format");
         }
         return date.substring(0, 7);
     }
