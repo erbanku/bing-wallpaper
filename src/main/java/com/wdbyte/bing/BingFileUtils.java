@@ -203,7 +203,7 @@ public class BingFileUtils {
     public static Map<String, List<Images>> convertImgListToMonthMap( List<Images> imagesList){
         Map<String, List<Images>> monthMap = new LinkedHashMap<>();
         for (Images images : imagesList) {
-            if (images.getUrl() == null){
+            if (images.getUrl() == null || images.getDate() == null){
                 continue;
             }
             String key = extractMonth(images.getDate());
@@ -279,8 +279,10 @@ public class BingFileUtils {
      * @throws IOException
      */
     private static void ensureFileExists(Path path) throws IOException {
-        if (!Files.exists(path)) {
+        try {
             Files.createFile(path);
+        } catch (java.nio.file.FileAlreadyExistsException e) {
+            // File already exists, which is fine
         }
     }
 
@@ -291,6 +293,9 @@ public class BingFileUtils {
      * @return 月份字符串 (YYYY-MM)
      */
     private static String extractMonth(String date) {
+        if (date == null || date.length() < 7) {
+            throw new IllegalArgumentException("Date string must be at least 7 characters (YYYY-MM format)");
+        }
         return date.substring(0, 7);
     }
 
