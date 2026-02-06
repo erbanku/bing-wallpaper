@@ -38,9 +38,7 @@ public class BingFileUtils {
      * @throws IOException
      */
     public static List<Images> readBing() throws IOException {
-        if (!Files.exists(BING_PATH)) {
-            Files.createFile(BING_PATH);
-        }
+        ensureFileExists(BING_PATH);
         List<String> allLines = Files.readAllLines(BING_PATH, StandardCharsets.UTF_8);
         List<Images> imgList = new ArrayList<>(allLines.size());
         imgList.add(new Images());
@@ -67,10 +65,8 @@ public class BingFileUtils {
      * @throws IOException
      */
     public static void writeBing(List<Images> imgList) throws IOException {
-        if (!Files.exists(BING_PATH)) {
-            Files.createFile(BING_PATH);
-        }
-        try (BufferedWriter writer = Files.newBufferedWriter(BING_PATH, StandardCharsets.UTF_8)) {
+        ensureFileExists(BING_PATH);
+        try (BufferedWriter writer = createUtf8Writer(BING_PATH, false)) {
             writer.write("## Bing Wallpaper");
             writer.newLine();
             for (Images images : imgList) {
@@ -88,9 +84,7 @@ public class BingFileUtils {
      * @throws IOException
      */
     public static List<Images> readReadme() throws IOException {
-        if (!Files.exists(README_PATH)) {
-            Files.createFile(README_PATH);
-        }
+        ensureFileExists(README_PATH);
         List<String> allLines = Files.readAllLines(README_PATH, StandardCharsets.UTF_8);
         List<Images> imgList = new ArrayList<>();
         for (int i = 3; i < allLines.size(); i++) {
@@ -132,9 +126,7 @@ public class BingFileUtils {
      * @throws IOException
      */
     public static void writeReadme(List<Images> imgList) throws IOException {
-        if (!Files.exists(README_PATH)) {
-            Files.createFile(README_PATH);
-        }
+        ensureFileExists(README_PATH);
         
         // Pre-filter valid images once
         List<Images> validImages = new ArrayList<>();
@@ -151,7 +143,7 @@ public class BingFileUtils {
         List<Images> imagesList = validImages.subList(0, Math.min(30, validImages.size()));
         writeFile(README_PATH, imagesList, null);
 
-        try (BufferedWriter writer = Files.newBufferedWriter(README_PATH, StandardCharsets.UTF_8, StandardOpenOption.APPEND)) {
+        try (BufferedWriter writer = createUtf8Writer(README_PATH, true)) {
             writer.newLine();
             writer.newLine();
             // Archive
@@ -164,8 +156,13 @@ public class BingFileUtils {
             Set<String> seenMonths = new LinkedHashSet<>();
             for (Images images : imgList) {
                 if (images.getDate() != null) {
-                    String month = images.getDate().substring(0, 7);
-                    seenMonths.add(month);
+                    try {
+                        String month = extractMonth(images.getDate());
+                        seenMonths.add(month);
+                    } catch (IllegalArgumentException e) {
+                        // Skip images with malformed date strings
+                        System.err.println("Skipping image with invalid date format: " + images.getDate());
+                    }
                 }
             }
             dateList.addAll(seenMonths);
@@ -211,11 +208,16 @@ public class BingFileUtils {
     public static Map<String, List<Images>> convertImgListToMonthMap( List<Images> imagesList){
         Map<String, List<Images>> monthMap = new LinkedHashMap<>();
         for (Images images : imagesList) {
-            if (images.getUrl() == null){
+            if (images.getUrl() == null || images.getDate() == null){
                 continue;
             }
-            String key = images.getDate().substring(0, 7);
-            monthMap.computeIfAbsent(key, k -> new ArrayList<>()).add(images);
+            try {
+                String key = extractMonth(images.getDate());
+                monthMap.computeIfAbsent(key, k -> new ArrayList<>()).add(images);
+            } catch (IllegalArgumentException e) {
+                // Skip images with malformed date strings
+                System.err.println("Skipping image with invalid date format: " + images.getDate());
+            }
         }
         return monthMap;
     }
@@ -229,14 +231,12 @@ public class BingFileUtils {
      * @throws IOException
      */
     private static void writeFile(Path path, List<Images> imagesList, String name) throws IOException {
-        if (!Files.exists(path)) {
-            Files.createFile(path);
-        }
+        ensureFileExists(path);
         String title = "## Bing Wallpaper";
         if (name != null) {
             title = "## Bing Wallpaper (" + name + ")";
         }
-        try (BufferedWriter writer = Files.newBufferedWriter(path, StandardCharsets.UTF_8)) {
+        try (BufferedWriter writer = createUtf8Writer(path, false)) {
             // Only add project description for main README (when name is null)
             if (name == null) {
                 writer.write("# Bing Wallpaper");
@@ -279,6 +279,49 @@ public class BingFileUtils {
             if (i % 3 != 1) {
                 writer.write("|");
             }
+        }
+    }
+
+    /**
+     * 确保文件存在，如果不存在则创建
+     *
+     * @param path 文件路径
+     * @throws IOException
+     */
+    private static void ensureFileExists(Path path) throws IOException {
+        try {
+            Files.createFile(path);
+        } catch (java.nio.file.FileAlreadyExistsException e) {
+            // File already exists, which is fine
+        }
+    }
+
+    /**
+     * 从日期字符串中提取月份 (YYYY-MM)
+     *
+     * @param date 日期字符串 (YYYY-MM-DD)
+     * @return 月份字符串 (YYYY-MM)
+     */
+    private static String extractMonth(String date) {
+        if (date == null || date.length() < 7) {
+            throw new IllegalArgumentException("Date string must have length >= 7 for YYYY-MM format");
+        }
+        return date.substring(0, 7);
+    }
+
+    /**
+     * 创建 UTF-8 编码的 BufferedWriter
+     *
+     * @param path 文件路径
+     * @param append 是否追加模式
+     * @return BufferedWriter
+     * @throws IOException
+     */
+    private static BufferedWriter createUtf8Writer(Path path, boolean append) throws IOException {
+        if (append) {
+            return Files.newBufferedWriter(path, StandardCharsets.UTF_8, StandardOpenOption.APPEND);
+        } else {
+            return Files.newBufferedWriter(path, StandardCharsets.UTF_8);
         }
     }
 
