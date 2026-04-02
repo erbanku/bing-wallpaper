@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2026-04)
 
-![Featured Image](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg&w=1000)
+![Featured Image](https://cn.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg&w=1000)
 
-**Featured Image:** [Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images)](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg)
+**Featured Image:** [Wildflower bloom, Central Valley, California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg)
 
 ---
 
@@ -10,4 +10,4 @@
 
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-04-02 [download 4k](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.ParadiseCave_EN-US6470755729_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-04-01 [download 4k](https://cn.bing.com/th?id=OHR.ParadiseCave_EN-US6470755729_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-04-03 [download 4k](https://cn.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-04-02 [download 4k](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.ParadiseCave_EN-US6470755729_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-04-01 [download 4k](https://cn.bing.com/th?id=OHR.ParadiseCave_EN-US6470755729_UHD.jpg)|
