@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2026-05)
 
-![Featured Image](https://cn.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg&w=1000)
+![Featured Image](https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg&w=1000)
 
-**Featured Image:** [Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)](https://cn.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg)
+**Featured Image:** [Koi fish, Lan Su Chinese Garden, Portland, Oregon (© Greg Vaughn/Getty Images)](https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg)
 
 ---
 
@@ -10,4 +10,4 @@
 
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-05-01 [download 4k](https://cn.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-05-02 [download 4k](https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-05-01 [download 4k](https://cn.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg)|
