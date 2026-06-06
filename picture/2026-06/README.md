@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2026-06)
 
-![Featured Image](https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&w=1000)
+![Featured Image](https://cn.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg&w=1000)
 
-**Featured Image:** [View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)](https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg)
+**Featured Image:** [Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)](https://cn.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg)
 
 ---
 
@@ -10,5 +10,6 @@
 
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-06-06 [download 4k](https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-06-05 [download 4k](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-06-04 [download 4k](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg)|
-|![](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-06-03 [download 4k](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-06-02 [download 4k](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-06-01 [download 4k](https://cn.bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-06-07 [download 4k](https://cn.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-06-06 [download 4k](https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-06-05 [download 4k](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-06-04 [download 4k](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-06-03 [download 4k](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-06-02 [download 4k](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-06-01 [download 4k](https://cn.bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_UHD.jpg)|
