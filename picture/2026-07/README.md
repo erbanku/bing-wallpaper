@@ -1,0 +1,13 @@
+## Bing Wallpaper (2026-07)
+
+![Featured Image](https://cn.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg&w=1000)
+
+**Featured Image:** [Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)](https://cn.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg)
+
+---
+
+### Recent Wallpapers
+
+|      |      |      |
+| :----: | :----: | :----: |
+|![](https://cn.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-01 [download 4k](https://cn.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg)|
