@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2026-07)
 
-![Featured Image](https://cn.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&w=1000)
+![Featured Image](https://cn.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg&w=1000)
 
-**Featured Image:** [Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)](https://cn.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg)
+**Featured Image:** [Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)](https://cn.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg)
 
 ---
 
@@ -10,5 +10,6 @@
 
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-06 [download 4k](https://cn.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-05 [download 4k](https://cn.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-04 [download 4k](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg)|
-|![](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-03 [download 4k](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-02 [download 4k](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-01 [download 4k](https://cn.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-07 [download 4k](https://cn.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-06 [download 4k](https://cn.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-05 [download 4k](https://cn.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-04 [download 4k](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-03 [download 4k](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-02 [download 4k](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-01 [download 4k](https://cn.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg)|
