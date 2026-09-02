@@ -1,0 +1,39 @@
+---
+description: When upgrading deps, CI, or runtimes, go fully to latest LTS/stable majors — never a partial bump.
+alwaysApply: true
+---
+
+# Full upgrade to latest LTS
+
+When the user asks to upgrade, fix, or modernize anything (CI, Java, Node, actions, packages, Docker, etc.), **finish in one pass**. Do not stop at the minimum change that clears the reported error.
+
+## Before editing
+
+1. Look up **current latest stable major** for every tool in scope (GitHub Actions, runtimes, package managers).
+2. Prefer **latest LTS** for runtimes: Java (Temurin LTS), Node.js (active LTS or user-specified current line).
+3. Read the project's actual toolchain (`packageManager`, lockfiles, `pom.xml`, existing workflow) — do not assume npm if the repo uses Bun/pnpm/yarn.
+
+## GitHub Actions (required)
+
+- Use **latest major tags**, not deprecated or one-major-behind versions.
+- Current baseline (verify at implementation time): `actions/checkout@v7`, `actions/setup-java@v6`, `actions/setup-node@v7`, `oven-sh/setup-bun@v2`.
+- Pin third-party actions to a **version tag or SHA**, never `@master` / `@main`.
+- Add `permissions` explicitly when the workflow pushes or writes.
+- Disable irrelevant caches (e.g. `package-manager-cache: false` when using Bun).
+
+## Runtimes and build tools
+
+- Java: match **JDK LTS** in both workflow and `pom.xml` (`maven.compiler.source` / `target`).
+- Node: match the version the app targets (`engines`, `@types/node`, user request).
+- Use the project's package manager and lockfile (`bun.lock` → `bun install --frozen-lockfile`, not `npm ci` without `package-lock.json`).
+
+## Done means done
+
+Before finishing, confirm:
+
+- [ ] No deprecated action majors remain in edited workflows.
+- [ ] No Node 20-era action runtimes left if newer majors exist.
+- [ ] Runtime versions are consistent across workflow, build config, and docs (`AGENTS.md` / `CHANGELOG.md`).
+- [ ] If unsure of latest version, **search official release pages** — do not guess from memory.
+
+Partial upgrades that force a second fix round are unacceptable.

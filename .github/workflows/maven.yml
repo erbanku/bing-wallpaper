@@ -1,60 +1,71 @@
-# This workflow will build a Java project with Maven
-# For more information see: https://help.github.com/actions/language-and-framework-guides/building-and-testing-java-with-maven
+# Build Java scraper, export Next.js site, and publish docs to GitHub Pages branch.
 
 name: Java CI with Maven
 
 on:
-  workflow_dispatch:
-  schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '0 9 * * *'
+    workflow_dispatch:
+    schedule:
+        - cron: "0 9 * * *"
+
+permissions:
+    contents: write
 
 jobs:
-  build:
+    build:
+        runs-on: ubuntu-latest
 
-    runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v7
+              with:
+                  token: ${{ secrets.GITHUB_TOKEN }}
 
-    steps:
-    - uses: actions/checkout@v2
-    - name: Set up JDK 1.8
-      uses: actions/setup-java@v1
-      with:
-        java-version: 1.8
-    - name: Build with Maven
-      run: mvn -B package --file pom.xml
-    - name: Run Java Application
-      run: java -jar target/bing-wallpaper-jar-with-dependencies.jar
-    - name: Setup Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '20'
-        cache: 'npm'
-        cache-dependency-path: nextjs-app/package-lock.json
-    - name: Install Next.js dependencies
-      run: |
-        cd nextjs-app
-        npm ci
-    - name: Build Next.js application
-      run: |
-        cd nextjs-app
-        npm run build
-    - name: Copy Next.js build to docs
-      run: |
-        rm -rf docs/*
-        cp -r nextjs-app/out/* docs/
-        touch docs/.nojekyll
-    - name: Commit files
-      run: |
-         git config --local user.email "erbanku@gmail.com"
-         git config --local user.name "Cactus"
-         git pull
-         git add README.md
-         git add bing-wallpaper.md
-         git add picture/*
-         git add docs/*
-         git commit -m "update readme.md and rebuild site"
-    - name: Push changes
-      uses:  ad-m/github-push-action@master
-      with:
-         github_token: ${{ secrets.GITHUB_TOKEN }}
-         branch: main
+            - name: Set up JDK 21
+              uses: actions/setup-java@v6
+              with:
+                  java-version: "21"
+                  distribution: temurin
+                  cache: maven
+
+            - name: Build with Maven
+              run: mvn -B package --file pom.xml
+
+            - name: Run Java application
+              run: java -jar target/bing-wallpaper-jar-with-dependencies.jar
+
+            - name: Set up Node.js 26
+              uses: actions/setup-node@v7
+              with:
+                  node-version: "26"
+                  package-manager-cache: false
+
+            - name: Set up Bun
+              uses: oven-sh/setup-bun@v2
+              with:
+                  bun-version-file: nextjs-app/package.json
+
+            - name: Install Next.js dependencies
+              working-directory: nextjs-app
+              run: bun install --frozen-lockfile
+
+            - name: Build Next.js application
+              working-directory: nextjs-app
+              run: bun run build
+
+            - name: Copy Next.js build to docs
+              run: |
+                  rm -rf docs/*
+                  cp -r nextjs-app/out/* docs/
+                  touch docs/.nojekyll
+
+            - name: Commit and push changes
+              run: |
+                  git config user.name "Cactus (Bot)"
+                  git config user.email "79493862+erbanku@users.noreply.github.com"
+                  git add README.md bing-wallpaper.md picture/ docs/
+                  if git diff --staged --quiet; then
+                    echo "No changes to commit"
+                  else
+                    git commit -m "chore: update readme and rebuild site"
+                    git push
+                  fi

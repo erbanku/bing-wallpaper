@@ -1,27 +1,27 @@
 {
-  "name": "nextjs-app",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
-  },
-  "dependencies": {
-    "react": "19.2.8",
-    "react-dom": "19.2.8",
-    "next": "16.3.2"
-  },
-  "devDependencies": {
-    "typescript": "^7.0.2",
-    "@types/node": "^26.2.0",
-    "@types/react": "^19.2.18",
-    "@types/react-dom": "^19.2.4",
-    "@tailwindcss/postcss": "^4.3.3",
-    "tailwindcss": "^4.3.3",
-    "eslint": "^10.9.0",
-    "eslint-config-next": "16.3.2"
-  },
-  "packageManager": "bun@1.4.0"
+    "name": "nextjs-app",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "eslint"
+    },
+    "dependencies": {
+        "react": "19.2.8",
+        "react-dom": "19.2.8",
+        "next": "16.3.4"
+    },
+    "devDependencies": {
+        "typescript": "^7.0.2",
+        "@types/node": "^26.4.1",
+        "@types/react": "^19.2.18",
+        "@types/react-dom": "^19.2.5",
+        "@tailwindcss/postcss": "^4.3.3",
+        "tailwindcss": "^4.3.3",
+        "eslint": "^10.9.1",
+        "eslint-config-next": "16.3.2"
+    },
+    "packageManager": "bun@1.4.0"
 }
