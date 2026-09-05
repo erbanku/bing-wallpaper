@@ -77,15 +77,16 @@ export default function Home() {
       <footer className="bg-gray-100 dark:bg-gray-900 mt-20 py-8">
         <div className="max-w-7xl mx-auto px-4 text-center">
           <p className="text-gray-600 dark:text-gray-400">
-            Powered by{" "}
+            Made with ❤️ by{" "}
             <a
-              href="https://github.com/erbanku/bing-wallpaper"
+              href="https://github.com/erbanku"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-600 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-300 font-medium"
             >
-              GitHub.com/erbanku
+              erbanku
             </a>
+            , in this chaotic world!
           </p>
         </div>
       </footer>
