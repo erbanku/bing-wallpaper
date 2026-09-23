@@ -11,7 +11,7 @@
     "dependencies": {
         "react": "19.2.8",
         "react-dom": "19.2.8",
-        "next": "16.3.4"
+        "next": "16.3.6"
     },
     "devDependencies": {
         "typescript": "^7.0.2",
@@ -21,7 +21,7 @@
         "@tailwindcss/postcss": "^4.3.3",
         "tailwindcss": "^4.3.3",
         "eslint": "^10.9.1",
-        "eslint-config-next": "16.3.2"
+        "eslint-config-next": "16.3.6"
     },
     "packageManager": "bun@1.4.0"
 }

@@ -2,6 +2,10 @@
 
 > Created and Maintained by @erbanku and fellow AI agents
 
+## 09/23/2026
+
+- Security: bump `next` and `eslint-config-next` to 16.3.6 in `nextjs-app/` (GHSA-vcvr-r3jv-pc5j).
+
 ## 09/02/2026
 
 - Added `.cursor/rules/full-upgrade-latest-lts.mdc` to require full latest-LTS upgrades in one pass.
