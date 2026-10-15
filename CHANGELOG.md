@@ -2,6 +2,10 @@
 
 > Created and Maintained by @erbanku and fellow AI agents
 
+## 10/15/2026
+
+- Security: bump `next` and `eslint-config-next` to 16.4.1 in `nextjs-app/` (October 14 2026 security release).
+
 ## 09/23/2026
 
 - Security: bump `next` and `eslint-config-next` to 16.3.6 in `nextjs-app/` (GHSA-vcvr-r3jv-pc5j).
