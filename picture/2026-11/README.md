@@ -1,8 +1,8 @@
 ## Bing Wallpaper (2026-11)
 
-![Featured Image](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&w=1000)
+![Featured Image](https://cn.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg&w=1000)
 
-**Featured Image:** [Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg)
+**Featured Image:** [Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg)
 
 ---
 
@@ -10,4 +10,5 @@
 
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-03 [download 4k](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-02 [download 4k](https://cn.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-01 [download 4k](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-04 [download 4k](https://cn.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-03 [download 4k](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-02 [download 4k](https://cn.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg)|
+|![](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-11-01 [download 4k](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg)|
